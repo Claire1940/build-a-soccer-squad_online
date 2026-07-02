@@ -1,12 +1,678 @@
 {
+  "seo": {
+    "home": {
+      "title": "Build A Soccer Squad Wiki - Códigos, Tier List e Capitães",
+      "description": "A Wiki de Build A Soccer Squad cobre o status dos códigos, tier list, jogadores, capitães, Cup Mode, química, loja, rerolls e dicas para iniciantes no Roblox.",
+      "keywords": "Build A Soccer Squad, Roblox, códigos, tier list, capitães, Cup Mode, jogadores, química",
+      "ogTitle": "Build A Soccer Squad Wiki - Códigos, Tier List e Capitães",
+      "ogDescription": "A Wiki de Build A Soccer Squad cobre o status dos códigos, tier list, jogadores, capitães, Cup Mode, química, loja, rerolls e dicas para iniciantes no Roblox.",
+      "twitterTitle": "Build A Soccer Squad Wiki - Códigos, Tier List e Capitães",
+      "twitterDescription": "A Wiki de Build A Soccer Squad cobre o status dos códigos, tier list, jogadores, capitães, Cup Mode, química, loja, rerolls e dicas para iniciantes no Roblox."
+    }
+  },
   "nav": {
     "guide": "Guia",
     "codes": "Códigos",
-    "team": "Equipe",
+    "team": "Time",
     "reroll": "Reroll",
     "money": "Dinheiro",
     "cup": "Copa",
     "update": "Atualização",
     "ranks": "Ranks"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar ao Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Roblox Soccer Squad Builder",
+    "title": "Build A Soccer Squad Wiki",
+    "description": "Colete mais de 1000 jogadores, monte um time de futebol de alto nível, entre no Cup Mode com 93 de OVR, desbloqueie capitães e cartas da Copa, e acompanhe códigos, tier lists, química, loja, rerolls e rotas para iniciantes.",
+    "getFreeCodesCTA": "Obter Códigos Gratuitos",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "26.1M+",
+        "label": "Visitas Totais"
+      },
+      "stat2": {
+        "value": "1000+",
+        "label": "Jogadores para Coletar"
+      },
+      "stat3": {
+        "value": "93 OVR",
+        "label": "Entrada na Copa"
+      },
+      "stat4": {
+        "value": "43.9K",
+        "label": "Pico de CCU"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Build A Soccer Squad",
+    "description": "Gire mais de 1000 jogadores, monte um elenco 4-3-3 de alto nível e busque Capitães, jogadores Prime e cartas de Copa 105+ OVR neste colecionador de cartas de futebol do Roblox."
+  },
+  "tools": {
+    "title": "Build A Soccer Squad",
+    "titleHighlight": "Recursos",
+    "subtitle": "Tudo o que você precisa para códigos, elencos, Modo Copa, capitães e recompensas em Build A Soccer Squad",
+    "cards": [
+      {
+        "icon": "Copiar",
+        "title": "Códigos de Build A Soccer Squad",
+        "description": "Códigos ativos, lista de expirados e as fontes de recompensa mais seguras"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia de Iniciante de Build A Soccer Squad",
+        "description": "Roteiro da primeira hora: gire jogadores, monte um 4-3-3, chegue ao Modo Copa"
+      },
+      {
+        "icon": "Star",
+        "title": "Tier List de Build A Soccer Squad",
+        "description": "Melhores prioridades de cartas, de Copa e Prime até giros comuns"
+      },
+      {
+        "icon": "Shield",
+        "title": "Guia do Modo Copa de Build A Soccer Squad",
+        "description": "Entrada de 93 OVR, vitórias na Copa e cartas de destaque da Copa de 105+ OVR"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Calculadora de OVR de Build A Soccer Squad",
+        "description": "Caminho da classificação do elenco para o portão de entrada de 93 OVR da Copa"
+      },
+      {
+        "icon": "Users",
+        "title": "Guia de Capitães de Build A Soccer Squad",
+        "description": "Requisitos de desbloqueio de Capitão 99 OVR e Capitão Premium"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Guia de Jogadores Prime de Build A Soccer Squad",
+        "description": "Jogadores Prime 100+ OVR, Loja Horária e variantes raras"
+      },
+      {
+        "icon": "Package",
+        "title": "Rerolls e Recompensas de Build A Soccer Squad",
+        "description": "Rerolls, atualizações, missões e o passe de Recompensas 2X"
+      }
+    ]
+  },
+  "modules": {
+    "soccerCodes": {
+      "eyebrow": "Códigos",
+      "title": "Códigos de Build A Soccer Squad",
+      "subtitle": "Acompanhe códigos ativos, códigos expirados, próximos eventos de códigos e as fontes de recompensa mais seguras para Build A Soccer Squad.",
+      "intro": "Build A Soccer Squad ainda está focado na montagem de elencos, Modo Copa, missões e recompensas de coleção. A página pública do Roblox lista atualmente recompensas de atualização, recompensas de missões e um próximo evento relacionado a códigos, mas nenhum código de resgate público foi listado para os jogadores copiarem ainda.",
+      "items": [
+        {
+          "label": "Códigos Ativos",
+          "value": "Nenhum código ativo público listado",
+          "status": "vazio",
+          "details": "A descrição oficial do jogo no Roblox não lista nenhum código de resgate no momento."
+        },
+        {
+          "label": "Códigos Expirados",
+          "value": "Nenhum código expirado listado",
+          "status": "vazio",
+          "details": "Nenhuma lista de códigos expirados de Build A Soccer Squad está publicada na página oficial do jogo no Roblox ou na página da comunidade da Bloxheed."
+        },
+        {
+          "label": "Próximo evento de códigos",
+          "value": "Recompensas e códigos em dobro",
+          "status": "em breve",
+          "details": "O painel de eventos do Roblox mostra um evento de Recompensas e Códigos em Dobro vinculado ao jogo, tornando a página oficial do Roblox o primeiro lugar a se verificar antes de usar qualquer lista de códigos copiada."
+        },
+        {
+          "label": "Recompensas de missões",
+          "value": "Rerolls e atualizações",
+          "status": "disponível",
+          "details": "A atualização da Copa indica que as missões agora concedem Rerolls e Atualizações, portanto, as missões são o caminho atual de recompensa direta."
+        },
+        {
+          "label": "Recompensas de grupo e favoritos",
+          "value": "Atualizações do grupo Bloxheed e recompensas no jogo",
+          "status": "disponível",
+          "details": "A descrição oficial pede aos jogadores para curtirem, favoritarem e entrarem no grupo para obterem melhores atualizações, mais conteúdo e recompensas no jogo."
+        },
+        {
+          "label": "Passe de Recompensas 2X",
+          "value": "Dobra as recompensas de missões, recompensas por completar times e recompensas de jogos da Copa",
+          "status": "pago",
+          "details": "A atualização da Copa lista as Recompensas 2X como um passe que dobra as recompensas de missões, as recompensas por completar times e as recompensas por vencer jogos da Copa."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "eyebrow": "Guia para iniciantes",
+      "title": "Guia para iniciantes de Build A Soccer Squad",
+      "subtitle": "Aprenda o ciclo básico: obtenha jogadores, monte um elenco 4-3-3, aumente o OVR do time e progrida rumo ao Modo Copa.",
+      "intro": "Build A Soccer Squad é um jogo de colecionar cartas de futebol no Roblox criado pela Bloxheed. O objetivo principal é colecionar jogadores de diferentes eras, montar o time mais forte possível, melhorar seu OVR e desbloquear tipos de cartas de maior valor por meio de Capitães, jogadores Prime e recompensas da Copa.",
+      "steps": [
+        {
+          "title": "Abra o jogo oficial no Roblox",
+          "goal": "Comece a partir da página de experiência da Bloxheed",
+          "description": "Use a página oficial do Roblox para ter a experiência correta de Build A Soccer Squad. Curta, favorite e entre no grupo da Bloxheed antes de começar o grind, pois a descrição do jogo vincula a atividade do grupo a atualizações e recompensas no jogo."
+        },
+        {
+          "title": "Obtenha jogadores e preencha seu elenco",
+          "goal": "Monte um time completo no esquema 4-3-3",
+          "description": "O ciclo de iniciante consiste em obter jogadores de futebol, preencher o XI Inicial e continuar melhorando as posições fracas. O jogo anuncia mais de 1.000 jogadores de 1970 até hoje."
+        },
+        {
+          "title": "Priorize o OVR do elenco",
+          "goal": "Busque montar um Melhor Time mais forte",
+          "description": "Seu progresso inicial deve focar em aumentar a força total do time, e não apenas em colecionar cartas aleatórias de classificação alta. Um elenco equilibrado com posições fortes importa mais do que uma carta incrível obtida cercada por cartas fracas."
+        },
+        {
+          "title": "Escolha um elenco de 2026 como meta",
+          "goal": "Foque em conseguir um Capitão de OVR 99",
+          "description": "A atualização de Primes e Capitães informa que completar a totalidade de elencos selecionados de 2026 desbloqueia o Capitão de OVR 99 daquele elenco. Foque em um caminho de coleção primeiro, em vez de espalhar seu progresso por times demais."
+        },
+        {
+          "title": "Use missões para obter rerolls e atualizações",
+          "goal": "Melhore sorteios ruins sem desperdiçar recursos",
+          "description": "A atualização da Copa adiciona Rerolls e Atualizações obtidos em missões. Guarde-os para espaços fracos, posições inadequadas ou melhorias finais que estejam bloqueando sua próxima meta de OVR."
+        },
+        {
+          "title": "Prepare-se para o Modo Copa",
+          "goal": "Alcance OVR 93+",
+          "description": "O Modo Copa exige um time com OVR de 93 ou superior. Encare o OVR 93 como a primeira grande barreira de progressão, depois comece a buscar vitórias na Copa e cartas da Copa de OVR 105+."
+        }
+      ]
+    },
+    "tierList": {
+      "eyebrow": "Tier List",
+      "title": "Tier List de Build A Soccer Squad",
+      "subtitle": "Uma tier list prática baseada em limites conhecidos de OVR, caminhos de desbloqueio e valor de progressão.",
+      "intro": "Os alvos mais fortes de Build A Soccer Squad não são apenas cartas aleatórias de classificação alta. Cartas da Copa, jogadores Prime, Capitães e preenchimentos úteis de entrosamento são importantes em diferentes estágios, pois o Modo Copa tem um limite estrito de entrada de 93 de OVR e as recompensas de OVR 105+ estão atrás de vitórias na Copa.",
+      "tiers": [
+        {
+          "tier": "S",
+          "name": "Jogadores da Copa",
+          "ovr": "OVR 105+",
+          "obtain": "Vença 5 Copas após entrar no Modo Copa",
+          "priority": "Busca de endgame",
+          "details": "Os Jogadores da Copa são o nível de recompensa mais alto listado na atualização atual da Copa. Eles devem ser tratados como o principal objetivo de longo prazo assim que seu time puder entrar no Modo Copa."
+        },
+        {
+          "tier": "S",
+          "name": "Jogadores Prime",
+          "ovr": "OVR 100+",
+          "obtain": "Rotação horária da loja",
+          "priority": "Melhor upgrade de meio de jogo",
+          "details": "A atualização Prime lista 20 jogadores Prime disponíveis na rotação horária da loja. Use jogadores Prime para substituir vagas fracas no Time Titular e avançar em direção ao limite de 93 de OVR da Copa."
+        },
+        {
+          "tier": "A",
+          "name": "Jogadores Capitães",
+          "ovr": "OVR 99",
+          "obtain": "Complete a totalidade de elencos selecionados de 2026",
+          "priority": "Forte recompensa de coleção",
+          "details": "Os Capitães são uma grande recompensa por completar coleções inteiras de elencos de 2026. Eles são âncoras confiáveis antes que as cartas Prime e da Copa assumam os espaços de OVR mais altos."
+        },
+        {
+          "tier": "A",
+          "name": "Capitães Premium",
+          "ovr": "Carta de Capitão",
+          "obtain": "Complete times selecionados de 2002",
+          "priority": "Busca de coleção",
+          "details": "A atualização da Copa adiciona Capitães Premium vinculados à conclusão de times selecionados de 2002. Vale a pena focar neles quando o caminho da coleção corresponder ao seu plano de montagem de elenco."
+        },
+        {
+          "tier": "B",
+          "name": "Cartas Regulares e de Elenco de 2026 de Alto Valor",
+          "ovr": "Varia",
+          "obtain": "Giros, ofertas da loja e progresso da coleção de times",
+          "priority": "Suporte para início e meio de jogo",
+          "details": "As cartas regulares ainda são importantes quando melhoram uma posição fraca, ajudam a terminar um elenco de 2026 ou aproximam seu OVR total do Modo Copa."
+        },
+        {
+          "tier": "C",
+          "name": "Cartas de Preenchimento de Baixo OVR ou de Encaixe Ruim",
+          "ovr": "Varia",
+          "obtain": "Giros iniciais",
+          "priority": "Apenas para uso temporário",
+          "details": "Use essas cartas apenas para completar seu Time Titular. Substitua-as assim que girar um encaixe de posição mais forte, um Capitão alvo, um upgrade Prime ou uma carta pronta para a Copa."
+        }
+      ]
+    },
+    "cupModeGuide": {
+      "eyebrow": "Modo Copa",
+      "title": "Guia do Modo Copa de Build A Soccer Squad",
+      "subtitle": "O Modo Copa é a primeira grande barreira do endgame: alcance OVR 93, entre em torneios, vença Copas e desbloqueie cartas de Copa de OVR 105+.",
+      "intro": "A atualização da Copa adiciona progressão de torneio ao Build A Soccer Squad. Os jogadores precisam de um time com OVR 93 ou superior para entrar, e então podem competir por vitórias na Copa, Jogadores da Copa, Capitães Premium e caminhos de recompensa aprimorados.",
+      "stages": [
+        {
+          "stage": "Requisito de Entrada",
+          "requirement": "OVR 93 ou superior",
+          "reward": "Acesso ao Modo Copa",
+          "details": "A atualização oficial afirma que seu time deve ter OVR 93 ou superior para entrar em uma Copa."
+        },
+        {
+          "stage": "Objetivo do Torneio",
+          "requirement": "Use seu melhor time",
+          "reward": "Vitórias na Copa",
+          "details": "O Modo Copa usa seu elenco mais forte em um formato de torneio. O objetivo é competir e vencer a Copa."
+        },
+        {
+          "stage": "Desbloqueio de Jogador da Copa",
+          "requirement": "Vença 5 Copas",
+          "reward": "Cartas de destaque da Copa com OVR 105+",
+          "details": "Após vencer 5 Copas, os jogadores podem desbloquear cartas de destaque da Copa com OVR 105+."
+        },
+        {
+          "stage": "Capitães Premium",
+          "requirement": "Complete times selecionados de 2002",
+          "reward": "Cartas de Capitão Premium",
+          "details": "A atualização da Copa adiciona Capitães Premium como uma recompensa de coleção para times selecionados de 2002."
+        },
+        {
+          "stage": "Impulso de Missão",
+          "requirement": "Complete missões durante a progressão",
+          "reward": "Rerolls e Refreshes",
+          "details": "As missões agora concedem Rerolls e Refreshes, ajudando os jogadores a melhorar posições fracas enquanto se preparam para o Modo Copa."
+        },
+        {
+          "stage": "Multiplicador de Recompensa",
+          "requirement": "Passe de Recompensas 2X",
+          "reward": "Recompensas duplicadas de missões, conclusão de times e jogos de Copa",
+          "details": "O Passe de Recompensas 2X duplica as missões, as recompensas por completar times e as recompensas por vencer jogos da Copa."
+        },
+        {
+          "stage": "Exibição de Time",
+          "requirement": "Monte um time de ponta",
+          "reward": "Pódio dos 3 Melhores Times",
+          "details": "A atualização da Copa adiciona um pódio que exibe os 3 Melhores Times."
+        }
+      ]
+    },
+    "squadRatingCalculator": {
+      "eyebrow": "Calculadora de OVR",
+      "title": "Calculadora de OVR de Build A Soccer Squad",
+      "subtitle": "Use as classificações do seu time titular para ver quão perto seu time está do requisito da Copa. Foque as melhorias nas posições titulares fracas antes de gastar recursos com os reservas.",
+      "intro": "O Modo Copa exige uma classificação de elenco de OVR 93 ou superior, então o caminho de melhoria mais rápido é simples: verifique seu time titular, encontre as posições com as menores classificações e substitua essas posições por cartas mais fortes de Capitães, jogadores Prime, jogadores da Copa, compras na loja, missões, rerolls e refreshes.",
+      "inputs": [
+        {
+          "label": "Meta de Entrada da Copa",
+          "value": "OVR 93",
+          "description": "Seu elenco deve ter OVR 93 ou superior para entrar no Modo Copa."
+        },
+        {
+          "label": "Meta de Destaque da Copa",
+          "value": "105+ OVR",
+          "description": "Após vencer 5 copas, os jogadores podem desbloquear cartas de destaque da Copa de 105+ OVR."
+        },
+        {
+          "label": "Entradas Principais da Calculadora",
+          "value": "Espaços de OVR da escalação titular",
+          "description": "Insira o OVR mostrado em cada carta de jogador titular e, em seguida, organize a escalação do menor para o maior para encontrar os melhores alvos de melhoria."
+        },
+        {
+          "label": "Prioridade de Melhoria",
+          "value": "Titular mais baixo primeiro",
+          "description": "Uma carta de classificação alta melhora mais o seu elenco quando substitui uma posição titular fraca. Jogadores Prime, Capitães, Capitães Premium, Lendas e cartas da Copa são os principais caminhos de melhoria de alto OVR."
+        },
+        {
+          "label": "Planejamento de Posição",
+          "value": "Ajuste a escalação antes da coleção",
+          "description": "Use compras na loja, rerolls, atualizações e missões para preencher posições fracas em vez de coletar cartas fortes que não melhoram seu elenco ativo."
+        }
+      ]
+    },
+    "captainsGuide": {
+      "eyebrow": "Desbloqueios de Capitão",
+      "title": "Guia de Capitães do Build A Soccer Squad",
+      "subtitle": "Os Capitães são melhorias baseadas em coleção, vinculadas à conclusão de elencos específicos. Eles são melhor tratados como objetivos de elenco de longo prazo do que como recompensas secundárias aleatórias.",
+      "intro": "O Build A Soccer Squad usa a conclusão de times como um importante caminho de progressão. Elencos selecionados de 2026 podem desbloquear Capitães de 99 OVR, enquanto Capitães Premium estão vinculados à conclusão de times selecionados de 2002. Antes de gastar rerolls ou atualizações, escolha um elenco alvo e termine os jogadores que faltam um por um, pois times incompletos não desbloqueiam a recompensa de capitão.",
+      "unlocks": [
+        {
+          "type": "Capitão de Elenco 2026",
+          "reward": "Capitão 99 OVR",
+          "requirement": "Colete a totalidade de um elenco selecionado de 2026.",
+          "use": "Ideal para jogadores que estão montando um elenco moderno e buscando melhorias mais fortes na escalação titular."
+        },
+        {
+          "type": "Capitão Premium",
+          "reward": "Desbloqueio de Capitão",
+          "requirement": "Complete times selecionados de 2002.",
+          "use": "Ideal para jogadores que usam o caminho dos Times da Copa do Mundo de 2002 como uma rota de coleção premium."
+        },
+        {
+          "type": "Progresso de Conclusão de Time",
+          "reward": "Progresso de recompensa baseada em elenco",
+          "requirement": "Compre, role ou ganhe os jogadores que faltam até que o elenco necessário esteja completo.",
+          "use": "Use as compras da Loja Diária e as atualizações para preencher os espaços que faltam, em vez de perseguir cartas de alto OVR não relacionadas."
+        },
+        {
+          "type": "Acesso a Variante Rara",
+          "reward": "Acesso a variante de rolagem rara",
+          "requirement": "Comprar ou completar uma missão para um jogador desbloqueia esse personagem para ser rolado como uma variante de jogador rara.",
+          "use": "Útil após você focar em jogadores específicos para a conclusão do elenco ou valor de coleção a longo prazo."
+        }
+      ]
+    },
+    "primePlayersGuide": {
+      "eyebrow": "Jogadores Prime",
+      "title": "Guia de Jogadores Prime do Build A Soccer Squad",
+      "subtitle": "Os jogadores Prime são a principal busca de 100+ OVR fora as cartas de destaque da Copa. Fique de olho na Loja Horária, use a Loja Diária para o progresso do time e evite desperdiçar atualizações em jogadores que não melhoram sua escalação.",
+      "intro": "A atualização Prime adicionou 20 jogadores Prime de 100+ OVR à Loja Horária, enquanto a Loja Diária suporta compras de times de 2026. Para um crescimento rápido do elenco, use cartas Prime para saltos imediatos de OVR e compras na loja para o progresso do Capitão.",
+      "players": [
+        {
+          "title": "Jogadores Prime",
+          "badge": "100+ OVR",
+          "source": "Loja Horária",
+          "description": "Jogadores Prime são cartas de alta classificação disponíveis na Loja Horária e são úteis para melhorias imediatas na escalação titular."
+        },
+        {
+          "title": "Loja Horária",
+          "badge": "Rotação Prime",
+          "source": "Loja do jogo",
+          "description": "Verifique a Loja Horária para compras de jogadores Prime com OVR 100+ antes de gastar recursos em melhorias aleatórias."
+        },
+        {
+          "title": "Loja Diária",
+          "badge": "Times de 2026",
+          "source": "Loja do jogo",
+          "description": "A Loja Diária inclui compras de times de 2026, tornando-a útil para preencher vagas que faltam no elenco e avançar no desbloqueio de Capitães."
+        },
+        {
+          "title": "Variantes Raras de Jogador",
+          "badge": "Giros Desbloqueáveis",
+          "source": "Compras e missões",
+          "description": "Comprar ou completar uma missão para um jogador desbloqueia esse personagem para ser sorteado como uma variante rara de jogador."
+        },
+        {
+          "title": "Cartas de Destaque da Copa",
+          "badge": "OVR 105+",
+          "source": "Vitórias na Copa",
+          "description": "Após vencer 5 copas, os jogadores podem desbloquear cartas de destaque da Copa com OVR 105+, que ficam acima das cartas Prime em classificação bruta."
+        },
+        {
+          "title": "Grande Seleção de Jogadores",
+          "badge": "Mais de 1000 Jogadores",
+          "source": "Elenco de Build A Soccer Squad",
+          "description": "O jogo apresenta mais de 1000 jogadores colecionáveis de 1970 até hoje, então focar na loja importa mais do que colecionar aleatoriamente."
+        }
+      ]
+    },
+    "rerollsAndRefreshes": {
+      "eyebrow": "Recursos",
+      "title": "Rerolls, Refreshes e Recompensas de Build A Soccer Squad",
+      "subtitle": "Rerolls e Refreshes são ferramentas essenciais para melhorar seu elenco e preencher lacunas na coleção. Gaste-os com objetivos claros em mente: progresso de Capitão, melhorias Prime, entrada na Copa ou acesso a variantes raras.",
+      "intro": "Build A Soccer Squad agora oferece Rerolls e Refreshes por meio de missões, suporta compras em lote na loja e inclui um passe de Recompensas 2X que aumenta as recompensas de missões, recompensas de conclusão de time e recompensas de jogos da Copa. Use os recursos com um elenco alvo em mente, pois refreshes aleatórios raramente ajudam o elenco a progredir.",
+      "resources": [
+        {
+          "name": "Rerolls",
+          "source": "Missões e pacotes da loja",
+          "use": "Busque melhores resultados de jogadores e variantes raras.",
+          "timing": "Use após escolher um elenco alvo, uma lacuna de posição ou um objetivo de melhoria de OVR alto."
+        },
+        {
+          "name": "Refreshes",
+          "source": "Missões e pacotes da loja",
+          "use": "Atualize as opções de jogadores ou da loja disponíveis.",
+          "timing": "Use quando a loja puder ajudar a terminar um time, preencher uma vaga fraca na escalação ou apoiar o progresso do Capitão."
+        },
+        {
+          "name": "Missões",
+          "source": "Objetivos do jogo",
+          "use": "Ganhe Rerolls e Refreshes, e desbloqueie o acesso a jogadores ao concluir missões.",
+          "timing": "Priorize missões vinculadas a jogadores ou recursos que combinem com o seu plano de elenco atual."
+        },
+        {
+          "name": "Passe de Recompensas 2X",
+          "source": "Gamepass",
+          "use": "Dobra as recompensas de missões, conclusão de times e vitórias em jogos da Copa.",
+          "timing": "Mais útil ao farmar missões, terminar vários times ou jogar repetidamente o Modo Copa."
+        },
+        {
+          "name": "Recompensas de Conclusão de Time",
+          "source": "Completando elencos",
+          "use": "Progresso para desbloqueios de Capitães e pagamentos de recompensas.",
+          "timing": "Foque em um time de cada vez para que cada compra ou giro te aproxime de um desbloqueio real."
+        },
+        {
+          "name": "Recompensas do Jogo de Copa",
+          "source": "Vitórias no Modo Copa",
+          "use": "Ganhe recompensas relacionadas à Copa e progrida para o desbloqueio de destaques da Copa de OVR 105+.",
+          "timing": "Comece a farmar depois que seu elenco atingir o requisito de 93 de OVR para a Copa."
+        },
+        {
+          "name": "Recompensas de Grupo",
+          "source": "Comunidade Bloxheed no Roblox",
+          "use": "Entre no grupo para atualizações, mais conteúdo e recompensas no jogo.",
+          "timing": "Resgate antes de progredir seriamente para não perder recompensas fáceis no início."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre Build A Soccer Squad",
+    "questions": [
+      {
+        "question": "O Build A Soccer Squad tem códigos de resgate agora?",
+        "answer": "A página oficial do Roblox para Build A Soccer Squad ainda não lista uma sequência de códigos de resgate públicos, mas sugere um evento de Recompensas em Dobro e Códigos. Sempre verifique a página oficial do Roblox primeiro, pois recompensas de missões, recompensas de grupo e o passe de Recompensas 2X são os caminhos de recompensa ativos hoje."
+      },
+      {
+        "question": "Como entro no Modo Copa no Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad exige um elenco com OVR 93 ou superior para entrar no Modo Copa. Assim que ultrapassar a barreira de 93 de OVR, você poderá competir em torneios por vitórias na Copa, Capitães Premium e cartas de destaque da Copa de OVR 105+ após 5 vitórias na Copa."
+      },
+      {
+        "question": "Qual é o OVR mais alto no Build A Soccer Squad?",
+        "answer": "O nível de carta mais alto listado no Build A Soccer Squad são as cartas de destaque da Copa de OVR 105+, desbloqueadas após vencer 5 Copas. Abaixo disso estão os jogadores Prime de OVR 100+ na Loja de Hora em Hora e Capitães de OVR 99 ao completar elencos selecionados de 2026."
+      },
+      {
+        "question": "Como desbloqueio Capitães no Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad recompensa Capitães através da conclusão de elencos. Coletar a totalidade de um elenco selecionado de 2026 desbloqueia um Capitão de OVR 99, enquanto Capitães Premium vêm da conclusão de times selecionados de 2002. Foque em um elenco por vez, pois times incompletos não desbloqueiam o capitão."
+      },
+      {
+        "question": "Onde posso jogar Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad é uma experiência do Roblox publicada pela Bloxheed. Você pode jogar através da página oficial do jogo no Roblox em qualquer dispositivo que suporte o Roblox, e entrar no grupo da comunidade Bloxheed conecta você a atualizações e recompensas no jogo."
+      },
+      {
+        "question": "O que são jogadores Prime no Build A Soccer Squad?",
+        "answer": "Jogadores Prime no Build A Soccer Squad são cartas de OVR 100+ adicionadas pela atualização Prime. Existem 20 jogadores Prime rotacionando na Loja de Hora em Hora, e eles são a melhoria mais rápida de meio de jogo para levar seu Time Titular em direção à barreira de entrada da Copa de OVR 93."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para montar seu elenco de futebol?",
+    "description": "Entre na comunidade Bloxheed no Roblox para dicas do Modo Copa, tier lists, montagem de elencos e atualizações do jogo!",
+    "joinCommunity": "Entre na Comunidade Bloxheed",
+    "joinGame": "Jogue no Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Build A Soccer Squad",
+    "description": "Seu centro de recursos completo para códigos, tier lists, jogadores, capitães, Modo Copa, entrosamento e guias de loja do Build A Soccer Squad.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Jurídico",
+    "bloxheedCommunity": "Comunidade Bloxheed",
+    "playRoblox": "Jogue no Roblox",
+    "watchYoutube": "Assista no YouTube",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Build A Soccer Squad Wiki. Não afiliado aos desenvolvedores de Build A Soccer Squad ou Roblox Corporation.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guia de Build A Soccer Squad",
+      "description": "Guias completos do iniciante ao avançado cobrindo o ciclo de montagem de elenco, progressão de OVR e o caminho para o Cup Mode.",
+      "metaTitle": "Guia de Build A Soccer Squad - Dicas para Iniciantes, Progressão e Cup Mode",
+      "metaDescription": "Domine o Build A Soccer Squad no Roblox com guias completos sobre o ciclo de coleção, grind de OVR, estratégia de reroll e como alcançar o requisito de entrada de 93 de OVR do Cup Mode.",
+      "categoryLabel": "GUIA DO JOGO",
+      "whatIs": "O que é o Guia de Build A Soccer Squad?",
+      "whatIsDescription": "Passo a passos detalhados que levam você desde o seu primeiro roll até um elenco pronto para o Cup Mode, cobrindo mecânicas principais, o ciclo de coleção, gerenciamento de recursos e os marcos de OVR que desbloqueiam Capitães e o Cup Mode.",
+      "why": "Por que ler o guia?",
+      "whySteps": {
+        "step1Title": "Aprenda as Mecânicas Principais",
+        "step1Description": "Entenda o ciclo de montagem de elenco, cartas de jogadores e a economia de reroll desde o primeiro dia",
+        "step2Title": "Progrida Rápido",
+        "step2Description": "Siga rotas comprovadas para aumentar o OVR rapidamente e evitar desperdiçar rerolls no início",
+        "step3Title": "Alcance o Cup Mode",
+        "step3Description": "Alcance o requisito de entrada de 93 de OVR e prepare seu XI Inicial para os torneios"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias"
+    },
+    "codes": {
+      "title": "Códigos de Build A Soccer Squad",
+      "description": "Acompanhe o status dos códigos mais recentes de Build A Soccer Squad, fontes de recompensa e o próximo evento Double Rewards and Codes.",
+      "metaTitle": "Códigos de Build A Soccer Squad - Status de Recompensas e Guia de Resgate",
+      "metaDescription": "Obtenha o status atual dos códigos de Build A Soccer Squad, de onde vêm as recompensas hoje e como se preparar para o próximo evento Double Rewards and Codes no Roblox.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são os Códigos de Build A Soccer Squad?",
+      "whatIsDescription": "Atualmente, Build A Soccer Squad recompensa os jogadores por meio de missões e participação no grupo, em vez de códigos de texto resgatáveis, com um evento oficial Double Rewards and Codes confirmado para trazer os primeiros códigos resgatáveis. Esta seção acompanha as fontes de recompensas reais e sinaliza listas de códigos falsos.",
+      "why": "Por que acompanhar a página de códigos?",
+      "whySteps": {
+        "step1Title": "Acompanhe Recompensas Reais",
+        "step1Description": "Veja exatamente de onde vêm as gemas grátis, rerolls e fichas de atributos agora mesmo",
+        "step2Title": "Identifique Códigos Falsos",
+        "step2Description": "Evite listas de códigos de terceiros que publicam códigos que não existem no jogo",
+        "step3Title": "Prepare-se para o Evento de Códigos",
+        "step3Description": "Esteja pronto para resgatar os primeiros códigos reais no momento em que o evento Double Rewards for lançado"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Códigos"
+    },
+    "team": {
+      "title": "Time de Build A Soccer Squad",
+      "description": "Monte o melhor time de Build A Soccer Squad com classificações de jogadores, entrosamento, formações e estratégias de avaliação de elenco.",
+      "metaTitle": "Time de Build A Soccer Squad - Melhores Jogadores, Entrosamento e Formações",
+      "metaDescription": "Monte o time de Build A Soccer Squad com a maior avaliação. Compare os melhores jogadores e cartas, otimize o entrosamento, escolha a melhor formação e eleve a avaliação do seu elenco para 97 de OVR ou mais.",
+      "categoryLabel": "MONTAGEM DE ELENCO",
+      "whatIs": "O que é Montagem de Elenco?",
+      "whatIsDescription": "Tudo o que envolve a construção de um elenco de alto nível: os melhores jogadores e cartas por OVR e posição, links de entrosamento (chemistry), escolha de formação e a matemática de classificação do elenco que determina sua força geral e elegibilidade para a Cup.",
+      "why": "Por que focar no seu time?",
+      "whySteps": {
+        "step1Title": "Escolha os Melhores Jogadores",
+        "step1Description": "Compare as melhores cartas por OVR, posição e valor de Cup para preencher cada vaga da escalação",
+        "step2Title": "Otimize o Entrosamento",
+        "step2Description": "Use links de nação, posição e classificação para aumentar a nota do seu elenco",
+        "step3Title": "Escolha a Melhor Formação",
+        "step3Description": "Combine sua formação com suas cartas de maior classificação e busque o OVR 97"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Time"
+    },
+    "reroll": {
+      "title": "Build A Soccer Squad Reroll",
+      "description": "Domine o sistema de reroll do Build A Soccer Squad com rotas de reroll gratuitas, tempo de reroll inteligente e quando comprar rerolls.",
+      "metaTitle": "Build A Soccer Squad Reroll - Guia de Reroll Gratuito, Inteligente e de Compra",
+      "metaDescription": "Aprenda o sistema completo de reroll do Build A Soccer Squad: ganhe rerolls gratuitos em missões, gaste-os de forma inteligente em posições específicas e decida quando vale a pena comprar rerolls.",
+      "categoryLabel": "REROLLS",
+      "whatIs": "O que é o Sistema de Reroll?",
+      "whatIsDescription": "O sistema de reroll permite atualizar cartas de jogadores e ofertas da loja para buscar jogadores com OVR mais alto e posições específicas. Os rerolls são obtidos em missões e eventos, podem ser gastos estrategicamente ou comprados com Robux quando um alvo de alto valor aparece.",
+      "why": "Por que gerenciar os rerolls com cuidado?",
+      "whySteps": {
+        "step1Title": "Ganhe Rerolls Gratuitos",
+        "step1Description": "Acumule rerolls gratuitos de missões diárias e eventos antes de gastar qualquer coisa",
+        "step2Title": "Reroll Inteligente",
+        "step2Description": "Economize rerolls para posições carentes e alvos de OVR alto, em vez de atualizações aleatórias",
+        "step3Title": "Saiba Quando Comprar",
+        "step3Description": "Só gaste Robux em rerolls quando uma carta Prime ou Captain estiver em oferta"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Reroll"
+    },
+    "money": {
+      "title": "Dinheiro no Build A Soccer Squad",
+      "description": "Ganhe dinheiro rápido no Build A Soccer Squad com os melhores métodos de ganho, gastos inteligentes e guias de valor de Robux.",
+      "metaTitle": "Dinheiro no Build A Soccer Squad - Melhores Métodos, Moedas Rápidas e Robux",
+      "metaDescription": "Encontre os melhores métodos de dinheiro no Build A Soccer Squad. Aprenda como ganhar moedas rápido, onde gastá-las primeiro e quais compras de Robux realmente aceleram seu elenco.",
+      "categoryLabel": "DINHEIRO E ROBUX",
+      "whatIs": "O que é o Sistema de Dinheiro?",
+      "whatIsDescription": "A economia do jogo abrange moedas ganhas em partidas, missões e Cups, além de compras com Robux, como rerolls, atualizações e o passe de Recompensas 2X. Entender ambos os caminhos permite que você progrida sem desperdiçar dinheiro real ou tempo de jogo.",
+      "why": "Por que planejar seu dinheiro?",
+      "whySteps": {
+        "step1Title": "Ganhe Dinheiro Rápido",
+        "step1Description": "Use as missões mais eficientes e rotas de farming de Cup para acumular moedas rapidamente",
+        "step2Title": "Gaste Dinheiro de Forma Inteligente",
+        "step2Description": "Prioritize rerolls e atualizações que corrijam lacunas reais na escalação em vez de compras aleatórias",
+        "step3Title": "Use Robux com Sabedoria",
+        "step3Description": "Compre itens de Robux como o passe 2X apenas quando eles multiplicarem seu progresso atual"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Dinheiro"
+    },
+    "cup": {
+      "title": "Build A Soccer Squad Cup",
+      "description": "Domine o Modo Copa do Build A Soccer Squad com a entrada de 93 OVR, copas PvE e PvP, e desbloqueios de cartas de Copa 105+ OVR.",
+      "metaTitle": "Modo Copa do Build A Soccer Squad - Entrada, Vitórias e Cartas 105+",
+      "metaDescription": "Conquiste o Modo Copa do Build A Soccer Squad. Aprenda o requisito de entrada de 93 OVR, formatos de copa PvE e PvP, a final e as cartas de Copa 105+ OVR desbloqueadas após 5 vitórias em copas.",
+      "categoryLabel": "MODO COPA",
+      "whatIs": "O que é o Modo Copa?",
+      "whatIsDescription": "O Modo Copa é o endgame de torneios do Build A Soccer Squad, bloqueado por uma classificação de elenco de 93 OVR. Ele abrange formatos de copa PvE e PvP, uma partida final e o novo conteúdo da atualização de copa que desbloqueia cartas de Copa 105+ OVR após cinco vitórias em copas.",
+      "why": "Por que jogar o Modo Copa?",
+      "whySteps": {
+        "step1Title": "Alcance 93 OVR",
+        "step1Description": "Construa uma classificação de elenco alta o suficiente para entrar em torneios de copa",
+        "step2Title": "Vença Copas PvE e PvP",
+        "step2Description": "Compita em formatos de copa e chegue à final para as melhores recompensas",
+        "step3Title": "Desbloqueie Cartas de Copa 105+",
+        "step3Description": "Vença cinco copas para desbloquear as cartas de destaque 105+ OVR mais fortes do jogo"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Copa"
+    },
+    "update": {
+      "title": "Atualização Build A Soccer Squad",
+      "description": "Acompanhe cada atualização do Build A Soccer Squad, desde novos conteúdos e grandes atualizações até a nova atualização de Copa.",
+      "metaTitle": "Atualização Build A Soccer Squad - Notas de Patch, Novas e Grandes Atualizações",
+      "metaDescription": "Mantenha-se atualizado com cada atualização do Build A Soccer Squad. Leia as notas de patch, grandes atualizações e a nova atualização de Copa que adicionou o Modo Copa, cartas 105+ e novos eventos.",
+      "categoryLabel": "ATUALIZAÇÕES",
+      "whatIs": "O que são as Atualizações do Build A Soccer Squad?",
+      "whatIsDescription": "As atualizações cobrem cada patch e lançamento de conteúdo do desenvolvedor Bloxheed, incluindo correções de qualidade de vida, novas cartas de jogadores e grandes atualizações, como a nova atualização de Copa que introduziu o Modo Copa, jogo de torneio e o conjunto de cartas 105+ OVR.",
+      "why": "Por que acompanhar as atualizações?",
+      "whySteps": {
+        "step1Title": "Confira Novos Conteúdos",
+        "step1Description": "Veja novas cartas, eventos e recursos no momento em que cada atualização for lançada",
+        "step2Title": "Entenda as Grandes Atualizações",
+        "step2Description": "Saiba como grandes lançamentos, como a atualização de Copa, remodelam o meta e seus objetivos",
+        "step3Title": "Planeje-se para as Mudanças",
+        "step3Description": "Ajuste sua estratégia de reroll, dinheiro e equipe com base no que cada atualização altera"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Atualização"
+    },
+    "ranks": {
+      "title": "Ranks do Build A Soccer Squad",
+      "description": "Entenda os ranks e tiers de cartas do Build A Soccer Squad, desde a progressão inicial até as cartas de Copa 105+ OVR e Capitães.",
+      "metaTitle": "Ranks do Build A Soccer Squad - Tiers de Cartas, OVR e Desbloqueios de Capitão",
+      "metaDescription": "Domine os ranks do Build A Soccer Squad no Roblox. Explore tiers de cartas, limites de OVR, cartas de Copa 105+ OVR, jogadores Prime e desbloqueios de Capitão 99 OVR para 2026.",
+      "categoryLabel": "RANQUES",
+      "whatIs": "O que são os Ranques do Build A Soccer Squad?",
+      "whatIsDescription": "Os ranques descrevem tanto a progressão da classificação do seu elenco quanto a tier list de cartas, desde os giros iniciais até as cartas de Copa 105+ OVR, jogadores Prime e Capitães 99 OVR. Conhecer o ranqueamento ajuda você a focar nas cartas certas em cada etapa.",
+      "why": "Por que aprender os ranques?",
+      "whySteps": {
+        "step1Title": "Conheça os Tiers das Cartas",
+        "step1Description": "Entenda quais faixas de OVR e tipos de cartas estão no topo da tier list",
+        "step2Title": "Foque no Ranque de Capitão",
+        "step2Description": "Complete elencos inteiros para desbloquear Capitães 99 OVR e recompensas Premium",
+        "step3Title": "Persiga o Ranque Máximo",
+        "step3Description": "Mire nas cartas de Copa 105+ OVR, os jogadores de maior ranque no jogo"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Ranques"
+    }
   }
 }

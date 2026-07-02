@@ -1,12 +1,678 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki Build A Soccer Squad - Kode, Tier List & Kapten",
+      "description": "Wiki Build A Soccer Squad membahas status kode, tier list, pemain, kapten, Cup Mode, chemistry, toko, reroll, dan tips pemula untuk Roblox.",
+      "keywords": "Build A Soccer Squad, Roblox, kode, tier list, kapten, Cup Mode, pemain, chemistry",
+      "ogTitle": "Wiki Build A Soccer Squad - Kode, Tier List & Kapten",
+      "ogDescription": "Wiki Build A Soccer Squad membahas status kode, tier list, pemain, kapten, Cup Mode, chemistry, toko, reroll, dan tips pemula untuk Roblox.",
+      "twitterTitle": "Wiki Build A Soccer Squad - Kode, Tier List & Kapten",
+      "twitterDescription": "Wiki Build A Soccer Squad membahas status kode, tier list, pemain, kapten, Cup Mode, chemistry, toko, reroll, dan tips pemula untuk Roblox."
+    }
+  },
   "nav": {
     "guide": "Panduan",
     "codes": "Kode",
     "team": "Tim",
     "reroll": "Reroll",
     "money": "Uang",
-    "cup": "Piala",
-    "update": "Pembaruan",
-    "ranks": "Peringkat"
+    "cup": "Cup",
+    "update": "Update",
+    "ranks": "Rank"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Selengkapnya",
+    "playNow": "Mainkan di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "articlesComingSoon": "Artikel segera hadir"
+  },
+  "hero": {
+    "badge": "Roblox Soccer Squad Builder",
+    "title": "Wiki Build A Soccer Squad",
+    "description": "Kumpulkan 1000+ pemain, bangun tim sepak bola berating tinggi, masuk ke Cup Mode di OVR 93, buka kapten dan kartu Cup, serta lacak kode, tier list, chemistry, toko, reroll, dan rute pemula.",
+    "getFreeCodesCTA": "Dapatkan Kode Gratis",
+    "playOnRobloxCTA": "Mainkan di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "26,1 Jt+",
+        "label": "Total Kunjungan"
+      },
+      "stat2": {
+        "value": "1000+",
+        "label": "Pemain untuk Dikumpulkan"
+      },
+      "stat3": {
+        "value": "93 OVR",
+        "label": "Masuk Cup"
+      },
+      "stat4": {
+        "value": "43,9K",
+        "label": "Puncak CCU"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay Build A Soccer Squad",
+    "description": "Roll 1000+ pemain bola, bangun skuad 4-3-3 berating tinggi, dan kejar Captain, pemain Prime, serta kartu Cup 105+ OVR dalam kolektor kartu sepak bola Roblox ini."
+  },
+  "tools": {
+    "title": "Build A Soccer Squad",
+    "titleHighlight": "Sumber Daya",
+    "subtitle": "Segala hal yang kamu butuhkan untuk kode, skuad, Cup Mode, captain, dan hadiah di Build A Soccer Squad",
+    "cards": [
+      {
+        "icon": "Salin",
+        "title": "Kode Build A Soccer Squad",
+        "description": "Kode aktif, daftar kedaluwarsa, dan sumber hadiah teraman"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Panduan Pemula Build A Soccer Squad",
+        "description": "Roadmap jam pertama: roll pemain, bangun 4-3-3, capai Cup Mode"
+      },
+      {
+        "icon": "Star",
+        "title": "Tier List Build A Soccer Squad",
+        "description": "Prioritas kartu terbaik dari Cup dan Prime hingga roll pengisi"
+      },
+      {
+        "icon": "Shield",
+        "title": "Panduan Cup Mode Build A Soccer Squad",
+        "description": "Entri 93 OVR, kemenangan Cup, dan kartu Cup unggulan 105+ OVR"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Kalkulator OVR Build A Soccer Squad",
+        "description": "Jalur rating skuad menuju gerbang entri 93 OVR Cup"
+      },
+      {
+        "icon": "Users",
+        "title": "Panduan Captain Build A Soccer Squad",
+        "description": "Syarat pembukaan Captain 99 OVR dan Premium Captain"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Panduan Pemain Prime Build A Soccer Squad",
+        "description": "Pemain Prime 100+ OVR, Hourly Shop, dan varian langka"
+      },
+      {
+        "icon": "Package",
+        "title": "Reroll dan Hadiah Build A Soccer Squad",
+        "description": "Reroll, penyegaran, quest, dan pass Hadiah 2X"
+      }
+    ]
+  },
+  "modules": {
+    "soccerCodes": {
+      "eyebrow": "Kode",
+      "title": "Kode Build A Soccer Squad",
+      "subtitle": "Lacak kode aktif, kode kedaluwarsa, event kode mendatang, dan sumber hadiah teraman untuk Build A Soccer Squad.",
+      "intro": "Build A Soccer Squad masih berfokus pada pembangunan skuad, Cup Mode, quest, dan hadiah koleksi. Halaman publik Roblox saat ini mencantumkan hadiah pembaruan, hadiah quest, dan event terkait kode yang akan datang, tetapi belum ada string kode penukaran publik yang terdaftar untuk disalin pemain.",
+      "items": [
+        {
+          "label": "Kode Aktif",
+          "value": "Tidak ada string kode aktif publik yang terdaftar",
+          "status": "kosong",
+          "details": "Deskripsi resmi game Roblox tidak mencantumkan string kode penukaran saat ini."
+        },
+        {
+          "label": "Kode Kedaluwarsa",
+          "value": "Tidak ada string kode kedaluwarsa yang terdaftar",
+          "status": "kosong",
+          "details": "Tidak ada daftar kode Build A Soccer Squad yang kedaluwarsa yang dipublikasikan di halaman resmi game Roblox atau halaman komunitas Bloxheed."
+        },
+        {
+          "label": "Acara Kode Mendatang",
+          "value": "Hadiah Ganda dan Kode",
+          "status": "mendatang",
+          "details": "Panel acara Roblox menunjukkan acara Hadiah Ganda dan Kode yang terkait dengan game ini, menjadikan halaman resmi Roblox sebagai tempat pertama untuk diperiksa sebelum menggunakan daftar kode tempelan apa pun."
+        },
+        {
+          "label": "Hadiah Quest",
+          "value": "Reroll dan Refresh",
+          "status": "tersedia",
+          "details": "Pembaruan Cup menyatakan bahwa quest sekarang memberikan Reroll dan Refresh, jadi quest adalah jalur hadiah langsung saat ini."
+        },
+        {
+          "label": "Hadiah Grup dan Favorit",
+          "value": "Pembaruan grup Bloxheed dan hadiah dalam game",
+          "status": "tersedia",
+          "details": "Deskripsi resmi meminta pemain untuk like, favoritkan, dan bergabung dengan grup untuk pembaruan yang lebih baik, lebih banyak konten, dan hadiah dalam game."
+        },
+        {
+          "label": "Pass Hadiah 2X",
+          "value": "Menggandakan hadiah quest, hadiah penyelesaian tim, dan hadiah pertandingan Cup",
+          "status": "berbayar",
+          "details": "Pembaruan Cup mencantumkan 2X Rewards sebagai pass yang menggandakan hadiah quest, hadiah dari menyelesaikan tim, dan hadiah dari memenangkan pertandingan Cup."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "eyebrow": "Panduan Pemula",
+      "title": "Panduan Pemula Build A Soccer Squad",
+      "subtitle": "Pelajari siklus dasar: roll pemain, bangun skuad 4-3-3, tingkatkan OVR tim, dan berusahalah menuju Cup Mode.",
+      "intro": "Build A Soccer Squad adalah pengumpul kartu sepak bola Roblox oleh Bloxheed. Tujuan utamanya adalah mengumpulkan pemain dari berbagai era, membangun tim sekuat mungkin, meningkatkan OVR Anda, dan membuka jenis kartu bernilai lebih tinggi melalui Captains, pemain Prime, dan hadiah Cup.",
+      "steps": [
+        {
+          "title": "Buka game Roblox resmi",
+          "goal": "Mulai dari halaman pengalaman Bloxheed",
+          "description": "Gunakan halaman resmi Roblox untuk pengalaman Build A Soccer Squad yang benar. Like, favoritkan, dan bergabunglah dengan grup Bloxheed sebelum grinding, karena deskripsi game menghubungkan aktivitas grup dengan pembaruan dan hadiah dalam game."
+        },
+        {
+          "title": "Roll pemain dan isi skuad Anda",
+          "goal": "Bangun tim 4-3-3 lengkap",
+          "description": "Siklus pemula adalah melakukan roll pemain bola, mengisi Starting XI, dan terus meningkatkan posisi yang lemah. Game ini mengiklankan lebih dari 1.000 pemain dari tahun 1970 hingga saat ini."
+        },
+        {
+          "title": "Prioritaskan OVR Skuad",
+          "goal": "Berusaha menuju Tim Terbaik yang lebih kuat",
+          "description": "Kemajuan awal Anda harus fokus pada peningkatan total kekuatan tim, bukan hanya mengumpulkan kartu acak berperingkat tinggi. Skuad yang seimbang dengan posisi yang kuat lebih penting daripada satu tarikan kartu mewah yang dikelilingi oleh kartu-kartu lemah."
+        },
+        {
+          "title": "Pilih satu target skuad 2026",
+          "goal": "Berusahalah menuju Captain OVR 99",
+          "description": "Pembaruan Prime dan Captains menyatakan bahwa menyelesaikan seluruh skuad 2026 pilihan akan membuka Captain OVR 99 skuad tersebut. Fokus pada satu jalur koleksi terlebih dahulu daripada menyebarkan kemajuan ke terlalu banyak tim."
+        },
+        {
+          "title": "Gunakan quest untuk reroll dan refresh",
+          "goal": "Tingkatkan roll yang buruk tanpa membuang sumber daya",
+          "description": "Pembaruan Cup menambahkan Reroll dan Refresh dari quest. Simpan untuk slot yang lemah, kecocokan posisi yang buruk, atau peningkatan terakhir yang menghalangi target OVR Anda berikutnya."
+        },
+        {
+          "title": "Bersiap untuk Cup Mode",
+          "goal": "Capai OVR 93+",
+          "description": "Cup Mode membutuhkan tim dengan peringkat OVR 93 atau lebih tinggi. Anggap OVR 93 sebagai hambatan progres utama pertama, lalu mulailah mengejar kemenangan Cup dan kartu Cup OVR 105+."
+        }
+      ]
+    },
+    "tierList": {
+      "eyebrow": "Tier List",
+      "title": "Build A Soccer Squad Tier List",
+      "subtitle": "Tier list praktis berdasarkan batas OVR tertinggi yang diketahui, jalur pembukaan, dan nilai progres.",
+      "intro": "Target terkuat Build A Soccer Squad bukan sekadar kartu berperingkat tinggi secara acak. Kartu Cup, pemain Prime, Captain, dan pengisi chemistry yang berguna masing-masing penting di tahap yang berbeda, karena Cup Mode memiliki syarat masuk OVR 93 yang ketat dan hadiah OVR 105+ tersedia setelah memenangkan Cup.",
+      "tiers": [
+        {
+          "tier": "S",
+          "name": "Pemain Cup",
+          "ovr": "105+ OVR",
+          "obtain": "Menangkan 5 Cup setelah memasuki Cup Mode",
+          "priority": "Target akhir permainan",
+          "details": "Pemain Cup adalah tingkatan hadiah tertinggi yang tercantum dalam pembaruan Cup saat ini. Mereka harus dianggap sebagai target jangka panjang utama setelah tim Anda dapat memasuki Cup Mode."
+        },
+        {
+          "tier": "S",
+          "name": "Pemain Prime",
+          "ovr": "100+ OVR",
+          "obtain": "Rotasi Toko per Jam",
+          "priority": "Peningkatan mid-game terbaik",
+          "details": "Pembaruan Prime mencantumkan 20 pemain Prime yang tersedia di toko per jam. Gunakan pemain Prime untuk mengganti slot Starting XI yang lemah dan mengejar syarat masuk Cup Mode OVR 93."
+        },
+        {
+          "tier": "A",
+          "name": "Pemain Captain",
+          "ovr": "99 OVR",
+          "obtain": "Selesaikan seluruh skuad 2026 pilihan",
+          "priority": "Hadiah koleksi yang kuat",
+          "details": "Captain adalah hadiah utama karena menyelesaikan koleksi skuad penuh 2026. Mereka adalah jangkar yang andal sebelum kartu Prime dan Cup mengambil alih slot OVR tertinggi."
+        },
+        {
+          "tier": "A",
+          "name": "Captain Premium",
+          "ovr": "Kartu Captain",
+          "obtain": "Selesaikan tim 2002 pilihan",
+          "priority": "Target koleksi",
+          "details": "Pembaruan Cup menambahkan Captain Premium yang terikat pada penyelesaian tim 2002 pilihan. Ini layak ditargetkan saat jalur koleksi sesuai dengan rencana pembangunan skuad Anda."
+        },
+        {
+          "tier": "B",
+          "name": "Kartu Skuad Reguler dan 2026 Bernilai Tinggi",
+          "ovr": "Bervariasi",
+          "obtain": "Roll, penawaran toko, dan progres koleksi tim",
+          "priority": "Dukungan early dan mid-game",
+          "details": "Kartu reguler tetap penting jika dapat meningkatkan posisi yang lemah, membantu menyelesaikan skuad 2026, atau mendorong total OVR Anda lebih dekat ke Cup Mode."
+        },
+        {
+          "tier": "C",
+          "name": "Kartu Pengisi OVR Rendah atau yang Kurang Cocok",
+          "ovr": "Bervariasi",
+          "obtain": "Roll awal",
+          "priority": "Hanya untuk penggunaan sementara",
+          "details": "Gunakan kartu ini hanya untuk melengkapi Starting XI Anda. Ganti setelah Anda mendapatkan posisi yang lebih cocok, target Captain, peningkatan Prime, atau kartu yang siap untuk Cup."
+        }
+      ]
+    },
+    "cupModeGuide": {
+      "eyebrow": "Mode Cup",
+      "title": "Panduan Mode Cup Build A Soccer Squad",
+      "subtitle": "Mode Cup adalah gerbang endgame besar pertama: capai 93 OVR, ikuti turnamen, menangkan Cup, dan buka kartu Cup 105+ OVR.",
+      "intro": "Pembaruan Cup menambahkan progresi turnamen ke Build A Soccer Squad. Pemain membutuhkan tim 93 OVR atau lebih tinggi untuk masuk, lalu mereka dapat bersaing untuk kemenangan Cup, Cup Players, Premium Captains, dan jalur hadiah yang ditingkatkan.",
+      "stages": [
+        {
+          "stage": "Syarat Masuk",
+          "requirement": "93 OVR atau lebih tinggi",
+          "reward": "Akses Mode Cup",
+          "details": "Pembaruan resmi menyatakan bahwa timmu harus 93 OVR atau lebih tinggi untuk mengikuti Cup."
+        },
+        {
+          "stage": "Tujuan Turnamen",
+          "requirement": "Gunakan tim terbaikmu",
+          "reward": "Kemenangan Cup",
+          "details": "Mode Cup menggunakan squad terkuatmu dalam format turnamen. Tujuannya adalah untuk bersaing dan memenangkan Cup."
+        },
+        {
+          "stage": "Buka Kunci Cup Player",
+          "requirement": "Menangkan 5 Cup",
+          "reward": "Kartu standout Cup 105+ OVR",
+          "details": "Setelah memenangkan 5 Cup, pemain dapat membuka kartu standout Cup 105+ OVR."
+        },
+        {
+          "stage": "Premium Captains",
+          "requirement": "Selesaikan tim 2002 pilihan",
+          "reward": "Kartu Premium Captain",
+          "details": "Pembaruan Cup menambahkan Premium Captains sebagai hadiah koleksi untuk tim 2002 pilihan."
+        },
+        {
+          "stage": "Boost Quest",
+          "requirement": "Selesaikan quest selama progresi",
+          "reward": "Reroll dan Refresh",
+          "details": "Quest sekarang memberikan Reroll dan Refresh, membantu pemain meningkatkan posisi yang lemah sambil bersiap untuk Mode Cup."
+        },
+        {
+          "stage": "Pengganda Hadiah",
+          "requirement": "Pass Hadiah 2X",
+          "reward": "Hadiah quest, penyelesaian tim, dan pertandingan Cup dua kali lipat",
+          "details": "2X Rewards Pass menggandakan quest, hadiah dari menyelesaikan tim, dan hadiah dari memenangkan pertandingan Cup."
+        },
+        {
+          "stage": "Tampilan Tim",
+          "requirement": "Bangun tim papan atas",
+          "reward": "Podium 3 Tim Terbaik",
+          "details": "Pembaruan Cup menambahkan podium yang menampilkan 3 Tim Terbaik."
+        }
+      ]
+    },
+    "squadRatingCalculator": {
+      "eyebrow": "Kalkulator OVR",
+      "title": "Kalkulator OVR Build A Soccer Squad",
+      "subtitle": "Gunakan rating starting lineup-mu untuk melihat seberapa dekat timmu dengan syarat Cup. Fokuskan upgrade pada posisi starting yang lemah sebelum menghabiskan sumber daya pada kedalaman bangku cadangan.",
+      "intro": "Mode Cup memerlukan rating squad 93 OVR atau lebih tinggi, jadi jalur upgrade tercepat itu sederhana: periksa starting lineup-mu, temukan posisi dengan rating terendah, lalu ganti slot tersebut dengan kartu yang lebih kuat dari Captains, pemain Prime, pemain Cup, pembelian toko, quest, reroll, dan refresh.",
+      "inputs": [
+        {
+          "label": "Target Masuk Cup",
+          "value": "93 OVR",
+          "description": "Squad-mu harus 93 OVR atau lebih tinggi untuk masuk ke Mode Cup."
+        },
+        {
+          "label": "Target Standout Cup",
+          "value": "105+ OVR",
+          "description": "Setelah memenangkan 5 piala, pemain dapat membuka kartu standout Cup 105+ OVR."
+        },
+        {
+          "label": "Input Kalkulator Utama",
+          "value": "Slot OVR lineup utama",
+          "description": "Masukkan OVR yang tertera pada setiap kartu pemain inti, lalu urutkan lineup dari yang terendah ke tertinggi untuk menemukan target peningkatan terbaik."
+        },
+        {
+          "label": "Prioritas Peningkatan",
+          "value": "Pemain inti terendah terlebih dahulu",
+          "description": "Kartu berating tinggi paling meningkatkan skuad Anda saat menggantikan posisi inti yang lemah. Pemain Prime, Captain, Premium Captain, Legend, dan kartu Cup adalah jalur peningkatan OVR tinggi yang utama."
+        },
+        {
+          "label": "Perencanaan Posisi",
+          "value": "Perbaiki lineup sebelum koleksi",
+          "description": "Gunakan pembelian toko, reroll, refresh, dan quest untuk mengisi posisi yang lemah daripada mengumpulkan kartu kuat yang tidak meningkatkan skuad aktif Anda."
+        }
+      ]
+    },
+    "captainsGuide": {
+      "eyebrow": "Buka Kunci Captain",
+      "title": "Panduan Captain Build A Soccer Squad",
+      "subtitle": "Captain adalah peningkatan berbasis koleksi yang terkait dengan penyelesaian skuad tertentu. Mereka paling baik diperlakukan sebagai tujuan roster jangka panjang daripada hadiah sampingan acak.",
+      "intro": "Build A Soccer Squad menggunakan penyelesaian tim sebagai jalur progresi utama. Skuad 2026 tertentu dapat membuka Captain 99 OVR, sementara Premium Captain terkait dengan penyelesaian tim 2002 tertentu. Sebelum menggunakan reroll atau refresh, pilih satu skuad target dan lengkapi pemain yang kurang satu per satu, karena tim yang setengah selesai tidak akan membuka hadiah captain.",
+      "unlocks": [
+        {
+          "type": "Captain Skuad 2026",
+          "reward": "Captain 99 OVR",
+          "requirement": "Kumpulkan seluruh bagian dari skuad 2026 tertentu.",
+          "use": "Terbaik bagi pemain yang membangun satu skuad modern dan mengejar peningkatan lineup utama yang lebih kuat."
+        },
+        {
+          "type": "Premium Captain",
+          "reward": "Buka kunci Captain",
+          "requirement": "Lengkapi tim pilihan dari tahun 2002.",
+          "use": "Terbaik bagi pemain yang menggunakan jalur Tim Piala Dunia 2002 sebagai rute koleksi premium."
+        },
+        {
+          "type": "Progres Penyelesaian Tim",
+          "reward": "Progres hadiah berbasis skuad",
+          "requirement": "Beli, roll, atau dapatkan pemain yang kurang hingga skuad yang diperlukan lengkap.",
+          "use": "Gunakan pembelian Daily Shop dan refresh untuk mengisi slot yang kosong daripada mengejar kartu OVR tinggi yang tidak terkait."
+        },
+        {
+          "type": "Akses Varian Langka",
+          "reward": "Akses varian roll langka",
+          "requirement": "Membeli atau menyelesaikan quest untuk seorang pemain akan membuka karakter tersebut agar dapat di-roll sebagai varian pemain langka.",
+          "use": "Berguna setelah Anda menargetkan pemain tertentu untuk penyelesaian skuad atau nilai koleksi jangka panjang."
+        }
+      ]
+    },
+    "primePlayersGuide": {
+      "eyebrow": "Pemain Prime",
+      "title": "Panduan Pemain Prime Build A Soccer Squad",
+      "subtitle": "Pemain Prime adalah incaran utama 100+ OVR di luar kartu standout Cup. Pantau Hourly Shop, gunakan Daily Shop untuk progres tim, dan hindari membuang refresh pada pemain yang tidak meningkatkan lineup Anda.",
+      "intro": "Pembaruan Prime menambahkan 20 pemain Prime 100+ OVR ke Hourly Shop, sementara Daily Shop mendukung pembelian tim 2026. Untuk pertumbuhan skuad yang cepat, gunakan kartu Prime untuk lonjakan OVR instan dan pembelian toko untuk progres Captain.",
+      "players": [
+        {
+          "title": "Pemain Prime",
+          "badge": "100+ OVR",
+          "source": "Hourly Shop",
+          "description": "Pemain Prime adalah kartu berating tinggi yang tersedia melalui Hourly Shop dan berguna untuk peningkatan lineup utama secara instan."
+        },
+        {
+          "title": "Hourly Shop",
+          "badge": "Rotasi Prime",
+          "source": "Toko dalam game",
+          "description": "Periksa Toko Per Jam untuk pembelian pemain Prime 100+ OVR sebelum menghabiskan sumber daya untuk upgrade acak."
+        },
+        {
+          "title": "Toko Harian",
+          "badge": "Tim 2026",
+          "source": "Toko dalam game",
+          "description": "Toko Harian mencakup pembelian tim 2026, menjadikannya berguna untuk mengisi slot skuad yang kosong dan berupaya membuka Captain."
+        },
+        {
+          "title": "Varian Pemain Langka",
+          "badge": "Roll yang Dapat Dibuka",
+          "source": "Pembelian dan quest",
+          "description": "Membeli atau menyelesaikan quest untuk seorang pemain akan membuka karakter tersebut agar bisa di-roll sebagai varian pemain langka."
+        },
+        {
+          "title": "Kartu Unggulan Cup",
+          "badge": "105+ OVR",
+          "source": "Kemenangan Cup",
+          "description": "Setelah memenangkan 5 cup, pemain dapat membuka kartu unggulan Cup 105+ OVR, yang memiliki rating murni di atas kartu Prime."
+        },
+        {
+          "title": "Kumpulan Pemain Besar",
+          "badge": "1000+ Pemain",
+          "source": "Roster Build A Soccer Squad",
+          "description": "Game ini menampilkan lebih dari 1000 pemain yang dapat dikoleksi dari tahun 1970 hingga hari ini, jadi penargetan toko lebih penting daripada mengoleksi secara acak."
+        }
+      ]
+    },
+    "rerollsAndRefreshes": {
+      "eyebrow": "Sumber Daya",
+      "title": "Build A Soccer Squad Reroll, Refresh, dan Hadiah",
+      "subtitle": "Reroll dan Refresh adalah alat utama untuk meningkatkan skuad Anda dan mengisi kekosongan koleksi. Gunakan mereka untuk tujuan yang jelas: progres Captain, upgrade Prime, entri Cup, atau akses varian langka.",
+      "intro": "Build A Soccer Squad sekarang memberikan Reroll dan Refresh melalui quest, mendukung pembelian toko dalam jumlah besar, dan menyertakan pass 2X Rewards yang meningkatkan hadiah quest, hadiah penyelesaian tim, dan hadiah pertandingan Cup. Gunakan sumber daya dengan target skuad di pikiran, karena refresh acak jarang sekali memajukan skuad.",
+      "resources": [
+        {
+          "name": "Reroll",
+          "source": "Quest dan bundle toko",
+          "use": "Kejar hasil pemain yang lebih baik dan varian langka.",
+          "timing": "Gunakan setelah memilih target skuad, kekosongan posisi, atau tujuan upgrade OVR tinggi."
+        },
+        {
+          "name": "Refresh",
+          "source": "Quest dan bundle toko",
+          "use": "Refresh pilihan pemain atau toko yang tersedia.",
+          "timing": "Gunakan saat toko dapat membantu menyelesaikan tim, mengisi slot lineup yang lemah, atau mendukung progres Captain."
+        },
+        {
+          "name": "Quest",
+          "source": "Objektif dalam game",
+          "use": "Dapatkan Reroll dan Refresh, serta buka akses pemain melalui penyelesaian quest.",
+          "timing": "Prioritaskan quest yang terkait dengan pemain atau sumber daya yang sesuai dengan rencana skuad Anda saat ini."
+        },
+        {
+          "name": "Pass 2X Rewards",
+          "source": "Game pass",
+          "use": "Menggandakan quest dan hadiah dari penyelesaian tim dan kemenangan pertandingan Cup.",
+          "timing": "Paling berguna saat farming quest, menyelesaikan banyak tim, atau memainkan Cup Mode berulang kali."
+        },
+        {
+          "name": "Hadiah Penyelesaian Tim",
+          "source": "Menyelesaikan skuad",
+          "use": "Kemajuan menuju pembukaan Kapten dan pembayaran hadiah.",
+          "timing": "Fokus pada satu tim saja dalam satu waktu agar setiap pembelian atau roll membuatmu lebih dekat ke pembukaan yang sebenarnya."
+        },
+        {
+          "name": "Hadiah Pertandingan Piala",
+          "source": "Kemenangan Mode Piala",
+          "use": "Dapatkan hadiah terkait Piala dan kemajuan menuju pembukaan pemain menonjol Piala 105+ OVR.",
+          "timing": "Mulai farming setelah skuadmu mencapai persyaratan Piala 93 OVR."
+        },
+        {
+          "name": "Hadiah Grup",
+          "source": "Komunitas Roblox Bloxheed",
+          "use": "Bergabunglah dengan grup untuk pembaruan, lebih banyak konten, dan hadiah dalam game.",
+          "timing": "Klaim sebelum progres serius agar kamu tidak melewatkan keuntungan awal yang mudah."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering",
+    "titleHighlight": "Diajukan",
+    "subtitle": "Semua yang perlu kamu ketahui tentang Build A Soccer Squad",
+    "questions": [
+      {
+        "question": "Apakah Build A Soccer Squad memiliki kode redeem saat ini?",
+        "answer": "Halaman resmi Roblox untuk Build A Soccer Squad belum mencantumkan teks kode redeem publik, tetapi membocorkan event Double Rewards dan Codes. Selalu periksa halaman resmi Roblox terlebih dahulu, karena hadiah quest, hadiah grup, dan pass 2X Rewards adalah jalur hadiah yang aktif saat ini."
+      },
+      {
+        "question": "Bagaimana cara masuk ke Mode Piala di Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad memerlukan skuad dengan rating 93 OVR atau lebih tinggi untuk masuk ke Mode Piala. Setelah kamu melewati batas 93 OVR, kamu dapat bersaing dalam turnamen untuk mendapatkan kemenangan Piala, Kapten Premium, dan kartu menonjol Piala 105+ OVR setelah 5 kemenangan Piala."
+      },
+      {
+        "question": "Berapa OVR tertinggi di Build A Soccer Squad?",
+        "answer": "Tier kartu tertinggi yang terdaftar di Build A Soccer Squad adalah kartu menonjol Piala 105+ OVR yang dibuka setelah memenangkan 5 Piala. Di bawahnya terdapat pemain Prime 100+ OVR di Toko Per Jam dan Kapten 99 OVR dari menyelesaikan skuad 2026 pilihan."
+      },
+      {
+        "question": "Bagaimana cara membuka Kapten di Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad memberikan hadiah Kapten melalui penyelesaian skuad. Mengumpulkan seluruh skuad 2026 pilihan akan membuka Kapten 99 OVR, sedangkan Kapten Premium didapatkan dari menyelesaikan tim 2002 pilihan. Fokus pada satu skuad saja dalam satu waktu, karena tim yang setengah selesai tidak akan membuka kapten."
+      },
+      {
+        "question": "Di mana saya bisa memainkan Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad adalah pengalaman Roblox yang diterbitkan oleh Bloxheed. Kamu dapat memainkannya melalui halaman game resmi Roblox di perangkat apa pun yang mendukung Roblox, dan bergabung dengan grup komunitas Bloxheed menghubungkanmu ke pembaruan dan hadiah dalam game."
+      },
+      {
+        "question": "Apa itu pemain Prime di Build A Soccer Squad?",
+        "answer": "Pemain Prime di Build A Soccer Squad adalah kartu 100+ OVR yang ditambahkan oleh pembaruan Prime. Ada 20 pemain Prime yang berotasi di Toko Per Jam, dan mereka adalah peningkatan pertengahan game tercepat untuk mendorong Starting XI kamu menuju batas masuk Piala 93 OVR."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap untuk Membangun Skuad Sepak Bolamu?",
+    "description": "Bergabunglah dengan komunitas Roblox Bloxheed untuk tips Mode Piala, tier list, pembangunan skuad, dan pembaruan game!",
+    "joinCommunity": "Bergabung dengan Komunitas Bloxheed",
+    "joinGame": "Mainkan di Roblox"
+  },
+  "footer": {
+    "title": "Wiki Build A Soccer Squad",
+    "description": "Pusat sumber daya lengkapmu untuk kode Build A Soccer Squad, tier list, pemain, kapten, Mode Piala, chemistry, dan panduan toko.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Legal",
+    "bloxheedCommunity": "Komunitas Bloxheed",
+    "playRoblox": "Mainkan di Roblox",
+    "watchYoutube": "Tonton di YouTube",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 Build A Soccer Squad Wiki. Tidak berafiliasi dengan developer Build A Soccer Squad atau Roblox Corporation.",
+    "disclaimer": "Situs web sumber daya buatan penggemar yang tidak resmi."
+  },
+  "pages": {
+    "guide": {
+      "title": "Panduan Build A Soccer Squad",
+      "description": "Panduan lengkap dari pemula hingga tingkat lanjut yang membahas siklus pembangunan skuad, progresi OVR, dan jalan menuju Cup Mode.",
+      "metaTitle": "Panduan Build A Soccer Squad - Tips Pemula, Progresi & Cup Mode",
+      "metaDescription": "Kuasai Build A Soccer Squad di Roblox dengan panduan lengkap tentang siklus koleksi, grinding OVR, strategi reroll, dan mencapai batas masuk 93 OVR Cup Mode.",
+      "categoryLabel": "PANDUAN GAME",
+      "whatIs": "Apa itu Panduan Build A Soccer Squad?",
+      "whatIsDescription": "Panduan langkah demi langkah yang membawa Anda dari roll pertama hingga skuad yang siap untuk Cup, mencakup mekanik inti, siklus koleksi, manajemen sumber daya, dan pencapaian OVR yang membuka Captain dan Cup Mode.",
+      "why": "Mengapa membaca panduan ini?",
+      "whySteps": {
+        "step1Title": "Pelajari Mekanik Inti",
+        "step1Description": "Pahami siklus pembangunan skuad, kartu pemain, dan ekonomi reroll sejak hari pertama",
+        "step2Title": "Progres Cepat",
+        "step2Description": "Ikuti rute yang terbukti untuk meningkatkan OVR dengan cepat dan menghindari pemborosan reroll di awal",
+        "step3Title": "Capai Cup Mode",
+        "step3Description": "Capai batas masuk 93 OVR dan siapkan Starting XI Anda untuk turnamen"
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan"
+    },
+    "codes": {
+      "title": "Kode Build A Soccer Squad",
+      "description": "Pantau status kode Build A Soccer Squad terbaru, sumber hadiah, dan event Double Rewards and Codes yang akan datang.",
+      "metaTitle": "Kode Build A Soccer Squad - Status Hadiah & Panduan Penukaran",
+      "metaDescription": "Dapatkan status kode Build A Soccer Squad saat ini, dari mana asal hadiah hari ini, dan cara bersiap untuk event Double Rewards and Codes yang akan datang di Roblox.",
+      "categoryLabel": "TUKARKAN KODE",
+      "whatIs": "Apa itu Kode Build A Soccer Squad?",
+      "whatIsDescription": "Saat ini, Build A Soccer Squad memberikan hadiah kepada pemain melalui quest dan keanggotaan grup alih-alih teks kode yang dapat ditukarkan, dengan event resmi Double Rewards and Codes yang telah dikonfirmasi akan menghadirkan kode penukaran pertama. Bagian ini memantau sumber hadiah asli dan menandai daftar kode palsu.",
+      "why": "Mengapa mengikuti halaman kode ini?",
+      "whySteps": {
+        "step1Title": "Pantau Hadiah Asli",
+        "step1Description": "Lihat dengan jelas dari mana permata gratis, reroll, dan chip stat berasal saat ini",
+        "step2Title": "Deteksi Kode Palsu",
+        "step2Description": "Hindari daftar kode pihak ketiga yang menerbitkan teks kode yang tidak ada di dalam game",
+        "step3Title": "Bersiap untuk Event Kode",
+        "step3Description": "Bersiaplah untuk menukarkan kode asli pertama saat event Double Rewards dimulai"
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Kode"
+    },
+    "team": {
+      "title": "Tim Build A Soccer Squad",
+      "description": "Bangun tim Build A Soccer Squad terbaik dengan peringkat pemain, chemistry, formasi, dan strategi rating skuad.",
+      "metaTitle": "Bangun tim Build A Soccer Squad dengan rating tertinggi. Bandingkan pemain dan kartu terbaik, optimalkan chemistry, pilih formasi terbaik, dan tingkatkan rating skuad Anda hingga 97 OVR dan seterusnya.",
+      "metaDescription": "Build the highest rated Build A Soccer Squad team. Compare best players and cards, optimize chemistry, pick the best formation, and push your squad rating to 97 OVR and beyond.",
+      "categoryLabel": "MEMBANGUN TIM",
+      "whatIs": "Apa itu Membangun Tim?",
+      "whatIsDescription": "Segala hal yang diperlukan untuk membangun skuad berperingkat tinggi: pemain dan kartu terbaik berdasarkan OVR dan posisi, hubungan chemistry, pilihan formasi, dan perhitungan peringkat skuad yang menentukan kekuatan keseluruhan dan kelayakan Cup Anda.",
+      "why": "Mengapa fokus pada tim Anda?",
+      "whySteps": {
+        "step1Title": "Pilih Pemain Terbaik",
+        "step1Description": "Bandingkan kartu-kartu teratas berdasarkan OVR, posisi, dan nilai Cup untuk mengisi setiap slot susunan pemain",
+        "step2Title": "Optimalkan Chemistry",
+        "step2Description": "Gunakan hubungan negara, posisi, dan peringkat untuk meningkatkan peringkat skuad Anda",
+        "step3Title": "Pilih Formasi Terbaik",
+        "step3Description": "Sesuaikan formasi Anda dengan kartu berperingkat tertinggi dan kejar target 97 OVR"
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Tim"
+    },
+    "reroll": {
+      "title": "Reroll Build A Soccer Squad",
+      "description": "Kuasai sistem reroll Build A Soccer Squad dengan rute reroll gratis, waktu reroll yang cerdas, dan kapan harus membeli reroll.",
+      "metaTitle": "Reroll Build A Soccer Squad - Panduan Reroll Gratis, Cerdas & Beli",
+      "metaDescription": "Pelajari sistem reroll Build A Soccer Squad selengkapnya: dapatkan reroll gratis dari quest, gunakan dengan cerdas pada posisi target, dan tentukan kapan membeli reroll itu sepadan.",
+      "categoryLabel": "REROLL",
+      "whatIs": "Apa itu Sistem Reroll?",
+      "whatIsDescription": "Sistem reroll memungkinkan Anda menyegarkan kartu pemain dan penawaran toko untuk mengejar pemain OVR yang lebih tinggi dan posisi tertentu. Reroll didapatkan dari quest dan event, dapat digunakan secara strategis, atau dibeli dengan Robux saat target bernilai tinggi muncul.",
+      "why": "Mengapa harus mengelola reroll dengan hati-hati?",
+      "whySteps": {
+        "step1Title": "Dapatkan Reroll Gratis",
+        "step1Description": "Kumpulkan reroll gratis dari quest harian dan event sebelum menggunakan apa pun",
+        "step2Title": "Reroll dengan Cerdas",
+        "step2Description": "Simpan reroll untuk posisi yang lemah dan target OVR tinggi alih-alih melakukan penyegaran acak",
+        "step3Title": "Tahu Kapan Harus Membeli",
+        "step3Description": "Hanya habiskan Robux untuk reroll saat ada penawaran kartu Prime atau Captain"
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Reroll"
+    },
+    "money": {
+      "title": "Uang Build A Soccer Squad",
+      "description": "Hasilkan uang dengan cepat di Build A Soccer Squad dengan metode uang terbaik, pengeluaran cerdas, dan panduan nilai Robux.",
+      "metaTitle": "Uang Build A Soccer Squad - Metode Terbaik, Koin Cepat & Robux",
+      "metaDescription": "Temukan metode uang Build A Soccer Squad terbaik. Pelajari cara mendapatkan koin dengan cepat, di mana harus membelanjakannya terlebih dahulu, dan pembelian Robux mana yang benar-benar mempercepat progres skuad Anda.",
+      "categoryLabel": "UANG & ROBUX",
+      "whatIs": "Apa itu Sistem Uang?",
+      "whatIsDescription": "Ekonomi dalam game mencakup koin yang didapatkan dari pertandingan, quest, dan Cup, ditambah pembelian Robux seperti reroll, penyegaran, dan pass 2X Rewards. Memahami keduanya memungkinkan Anda maju tanpa membuang uang sungguhan atau waktu grinding.",
+      "why": "Mengapa harus merencanakan keuangan Anda?",
+      "whySteps": {
+        "step1Title": "Hasilkan Uang dengan Cepat",
+        "step1Description": "Gunakan quest dan rute farming Cup yang paling efisien untuk mengumpulkan koin dengan cepat",
+        "step2Title": "Belanjakan Uang dengan Cerdas",
+        "step2Description": "Prioritaskan reroll dan penyegaran yang memperbaiki celah nyata dalam susunan pemain daripada pembelian acak",
+        "step3Title": "Gunakan Robux dengan Bijak",
+        "step3Description": "Hanya beli item Robux seperti pass 2X saat item tersebut melipatgandakan hasil grinding Anda saat ini"
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Uang"
+    },
+    "cup": {
+      "title": "Build A Soccer Squad Cup",
+      "description": "Kuasai Build A Soccer Squad Cup Mode dengan batas masuk 93 OVR, cup PvE dan PvP, serta pembukaan kartu Cup 105+ OVR.",
+      "metaTitle": "Build A Soccer Squad Cup Mode - Masuk, Kemenangan & Kartu 105+",
+      "metaDescription": "Taklukkan Build A Soccer Squad Cup Mode. Pelajari persyaratan masuk 93 OVR, format cup PvE dan PvP, babak final, dan kartu Cup 105+ OVR yang terbuka setelah 5 kemenangan cup.",
+      "categoryLabel": "CUP MODE",
+      "whatIs": "Apa itu Cup Mode?",
+      "whatIsDescription": "Cup Mode adalah turnamen endgame di Build A Soccer Squad, yang dibatasi oleh rating skuad 93 OVR. Mode ini mencakup format cup PvE dan PvP, pertandingan final, dan konten pembaruan cup terbaru yang membuka kartu Cup 105+ OVR setelah lima kemenangan cup.",
+      "why": "Mengapa bermain Cup Mode?",
+      "whySteps": {
+        "step1Title": "Capai 93 OVR",
+        "step1Description": "Bangun rating skuad yang cukup tinggi untuk mengikuti turnamen cup",
+        "step2Title": "Menangkan Cup PvE dan PvP",
+        "step2Description": "Bersaing di berbagai format cup dan capai final untuk mendapatkan hadiah terbaik",
+        "step3Title": "Buka Kartu Cup 105+",
+        "step3Description": "Menangkan lima cup untuk membuka kartu unggulan 105+ OVR terkuat di dalam game"
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Cup"
+    },
+    "update": {
+      "title": "Pembaruan Build A Soccer Squad",
+      "description": "Pantau setiap pembaruan Build A Soccer Squad, mulai dari konten baru dan pembaruan besar hingga pembaruan Cup terbaru.",
+      "metaTitle": "Pembaruan Build A Soccer Squad - Catatan Patch, Pembaruan Baru & Besar",
+      "metaDescription": "Tetap ikuti setiap pembaruan Build A Soccer Squad. Baca catatan patch, pembaruan besar, dan pembaruan Cup terbaru yang menambahkan Cup Mode, kartu 105+, dan event baru.",
+      "categoryLabel": "PEMBARUAN",
+      "whatIs": "Apa itu Pembaruan Build A Soccer Squad?",
+      "whatIsDescription": "Pembaruan mencakup setiap patch dan rilis konten dari pengembang Bloxheed, termasuk perbaikan kualitas permainan, kartu pemain baru, dan pembaruan besar seperti pembaruan Cup terbaru yang memperkenalkan Cup Mode, permainan turnamen, dan kumpulan kartu 105+ OVR.",
+      "why": "Mengapa mengikuti pembaruan?",
+      "whySteps": {
+        "step1Title": "Dapatkan Konten Baru",
+        "step1Description": "Lihat kartu, event, dan fitur baru segera setelah setiap pembaruan dirilis",
+        "step2Title": "Pahami Pembaruan Besar",
+        "step2Description": "Pelajari bagaimana rilis besar seperti pembaruan Cup mengubah meta dan tujuan Anda",
+        "step3Title": "Rencanakan Berdasarkan Perubahan",
+        "step3Description": "Sesuaikan strategi reroll, uang, dan tim Anda berdasarkan perubahan di setiap pembaruan"
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Pembaruan"
+    },
+    "ranks": {
+      "title": "Rank Build A Soccer Squad",
+      "description": "Pahami rank dan tier kartu Build A Soccer Squad, mulai dari progres awal hingga kartu Cup 105+ OVR dan Captain.",
+      "metaTitle": "Rank Build A Soccer Squad - Tier Kartu, OVR & Pembukaan Captain",
+      "metaDescription": "Kuasai rank Build A Soccer Squad di Roblox. Jelajahi tier kartu, batas OVR, kartu Cup 105+ OVR, pemain Prime, dan pembukaan Captain 99 OVR untuk tahun 2026.",
+      "categoryLabel": "PERINGKAT",
+      "whatIs": "Apa itu Peringkat Build A Soccer Squad?",
+      "whatIsDescription": "Peringkat menggambarkan progresi rating skuad Anda dan daftar tier kartu mulai dari roll awal hingga kartu Cup 105+ OVR, pemain Prime, dan Kapten 99 OVR. Mengetahui peringkat ini membantu Anda menargetkan kartu yang tepat di setiap tahap.",
+      "why": "Mengapa mempelajari peringkat ini?",
+      "whySteps": {
+        "step1Title": "Ketahui Tier Kartu",
+        "step1Description": "Pahami kisaran OVR dan jenis kartu mana yang berada di posisi teratas daftar tier",
+        "step2Title": "Targetkan Peringkat Kapten",
+        "step2Description": "Lengkapi skuad penuh untuk membuka Kapten 99 OVR dan hadiah Premium",
+        "step3Title": "Kejar Peringkat Teratas",
+        "step3Description": "Incar kartu Cup 105+ OVR, pemain dengan peringkat tertinggi di game ini"
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Peringkat"
+    }
   }
 }
