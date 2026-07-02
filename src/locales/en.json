@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -52,696 +52,401 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Build A Soccer Squad Gameplay",
+    "description": "Roll 1000+ footballers, build a high-rated 4-3-3 squad, and chase Captains, Prime players, and 105+ OVR Cup cards in this Roblox soccer card collector."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Build A Soccer Squad",
     "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "subtitle": "Everything you need for codes, squads, Cup Mode, captains, and rewards in Build A Soccer Squad",
     "cards": [
       {
+        "icon": "Copy",
+        "title": "Build A Soccer Squad Codes",
+        "description": "Active codes, expired list, and the safest reward sources"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
+        "title": "Build A Soccer Squad Beginner Guide",
+        "description": "First hour roadmap: roll players, build a 4-3-3, reach Cup Mode"
       },
       {
         "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "title": "Build A Soccer Squad Tier List",
+        "description": "Best card priorities from Cup and Prime down to filler rolls"
       },
       {
         "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Build A Soccer Squad Cup Mode Guide",
+        "description": "93 OVR entry, Cup wins, and 105+ OVR Cup standout cards"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Build A Soccer Squad OVR Calculator",
+        "description": "Squad rating path to the 93 OVR Cup entry gate"
+      },
+      {
+        "icon": "Users",
+        "title": "Build A Soccer Squad Captains Guide",
+        "description": "99 OVR Captain and Premium Captain unlock requirements"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Build A Soccer Squad Prime Players Guide",
+        "description": "100+ OVR Prime players, Hourly Shop, and rare variants"
+      },
+      {
+        "icon": "Package",
+        "title": "Build A Soccer Squad Rerolls and Rewards",
+        "description": "Rerolls, refreshes, quests, and the 2X Rewards pass"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
-        {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "soccerCodes": {
+      "eyebrow": "Codes",
+      "title": "Build A Soccer Squad Codes",
+      "subtitle": "Track active codes, expired codes, upcoming code events, and the safest reward sources for Build A Soccer Squad.",
+      "intro": "Build A Soccer Squad is still focused on squad building, Cup Mode, quests, and collection rewards. The public Roblox page currently lists update rewards, quest rewards, and an upcoming code-related event, but no public redeem code string is listed for players to copy yet.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "label": "Active Codes",
+          "value": "No public active code strings listed",
+          "status": "empty",
+          "details": "The official Roblox game description does not list a redeemable code string at this time."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "label": "Expired Codes",
+          "value": "No expired code strings listed",
+          "status": "empty",
+          "details": "No expired Build A Soccer Squad code list is published on the official Roblox game page or Bloxheed community page."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "label": "Upcoming Code Event",
+          "value": "Double Rewards and Codes",
+          "status": "upcoming",
+          "details": "The Roblox event panel shows a Double Rewards and Codes event tied to the game, making the official Roblox page the first place to check before using any pasted code list."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "label": "Quest Rewards",
+          "value": "Rerolls and Refreshes",
+          "status": "available",
+          "details": "The Cup update states that quests now give Rerolls and Refreshes, so quests are the current direct reward path."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "label": "Group and Favorite Rewards",
+          "value": "Bloxheed group updates and in-game rewards",
+          "status": "available",
+          "details": "The official description asks players to like, favorite, and join the group for better updates, more content, and in-game rewards."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "label": "2X Rewards Pass",
+          "value": "Doubles quests, team completion rewards, and Cup game rewards",
+          "status": "paid",
+          "details": "The Cup update lists 2X Rewards as a pass that doubles quest rewards, rewards from completing teams, and rewards from winning Cup games."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "beginnerGuide": {
+      "eyebrow": "Beginner Guide",
+      "title": "Build A Soccer Squad Beginner Guide",
+      "subtitle": "Learn the basic loop: roll players, build a 4-3-3 squad, raise team OVR, and work toward Cup Mode.",
+      "intro": "Build A Soccer Squad is a Roblox football card collector by Bloxheed. The core goal is to collect players from different eras, build the strongest possible team, improve your OVR, and unlock higher-value card types through Captains, Prime players, and Cup rewards.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Open the official Roblox game",
+          "goal": "Start from the Bloxheed experience page",
+          "description": "Use the official Roblox page for the correct Build A Soccer Squad experience. Like, favorite, and join the Bloxheed group before grinding, because the game description links group activity with updates and in-game rewards."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Roll players and fill your squad",
+          "goal": "Build a full 4-3-3 team",
+          "description": "The beginner loop is to roll footballers, fill the Starting XI, and keep upgrading weak positions. The game advertises more than 1,000 players from 1970 to today."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Prioritize Squad OVR",
+          "goal": "Push toward a stronger Best Team",
+          "description": "Your early progress should focus on raising total team strength, not just collecting random high-rated cards. A balanced squad with strong positions matters more than one flashy pull surrounded by weak cards."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Pick one 2026 squad target",
+          "goal": "Work toward a 99 OVR Captain",
+          "description": "The Prime and Captains update says that completing the entirety of select 2026 squads unlocks that squad's 99 OVR Captain. Focus one collection path first instead of spreading progress across too many teams."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Use quests for rerolls and refreshes",
+          "goal": "Improve bad rolls without wasting resources",
+          "description": "The Cup update adds Rerolls and Refreshes from quests. Save them for weak slots, bad position fits, or final upgrades that block your next OVR target."
+        },
+        {
+          "title": "Prepare for Cup Mode",
+          "goal": "Reach 93+ OVR",
+          "description": "Cup Mode requires a team rated 93 OVR or higher. Treat 93 OVR as the first major progression wall, then start pushing for Cup wins and 105+ OVR Cup cards."
+        }
+      ]
+    },
+    "tierList": {
+      "eyebrow": "Tier List",
+      "title": "Build A Soccer Squad Tier List",
+      "subtitle": "A practical tier list based on known OVR ceilings, unlock paths, and progression value.",
+      "intro": "The strongest Build A Soccer Squad targets are not just random high-rated cards. Cup cards, Prime players, Captains, and useful chemistry fillers each matter at different stages, because Cup Mode has a strict 93 OVR entry gate and 105+ OVR rewards sit behind Cup wins.",
+      "tiers": [
+        {
+          "tier": "S",
+          "name": "Cup Players",
+          "ovr": "105+ OVR",
+          "obtain": "Win 5 Cups after entering Cup Mode",
+          "priority": "Endgame chase",
+          "details": "Cup Players are the highest listed reward tier in the current Cup update. They should be treated as the top long-term target once your team can enter Cup Mode."
+        },
+        {
+          "tier": "S",
+          "name": "Prime Players",
+          "ovr": "100+ OVR",
+          "obtain": "Hourly Shop rotation",
+          "priority": "Best mid-game upgrade",
+          "details": "The Prime update lists 20 Prime players available in the hourly shop. Use Prime players to replace weak Starting XI slots and push toward the 93 OVR Cup gate."
+        },
+        {
+          "tier": "A",
+          "name": "Captain Players",
+          "ovr": "99 OVR",
+          "obtain": "Complete the entirety of select 2026 squads",
+          "priority": "Strong collection reward",
+          "details": "Captains are a major reward for finishing full 2026 squad collections. They are reliable anchors before Prime and Cup cards take over the highest OVR slots."
+        },
+        {
+          "tier": "A",
+          "name": "Premium Captains",
+          "ovr": "Captain card",
+          "obtain": "Complete select 2002 teams",
+          "priority": "Collection chase",
+          "details": "The Cup update adds Premium Captains tied to select 2002 team completion. These are worth targeting when the collection path matches your squad-building plan."
+        },
+        {
+          "tier": "B",
+          "name": "High-Value Regular and 2026 Squad Cards",
+          "ovr": "Varies",
+          "obtain": "Rolls, shop offers, and team collection progress",
+          "priority": "Early and mid-game support",
+          "details": "Regular cards still matter when they improve a weak position, help finish a 2026 squad, or push your total OVR closer to Cup Mode."
+        },
+        {
+          "tier": "C",
+          "name": "Low-OVR or Poor-Fit Filler Cards",
+          "ovr": "Varies",
+          "obtain": "Early rolls",
+          "priority": "Temporary use only",
+          "details": "Use these cards only to complete your Starting XI. Replace them once you roll a stronger position fit, Captain target, Prime upgrade, or Cup-ready card."
+        }
+      ]
+    },
+    "cupModeGuide": {
+      "eyebrow": "Cup Mode",
+      "title": "Build A Soccer Squad Cup Mode Guide",
+      "subtitle": "Cup Mode is the first major endgame gate: reach 93 OVR, enter tournaments, win Cups, and unlock 105+ OVR Cup cards.",
+      "intro": "The Cup update adds tournament progression to Build A Soccer Squad. Players need a 93 OVR or higher team to enter, then they can compete for Cup wins, Cup Players, Premium Captains, and boosted reward paths.",
+      "stages": [
+        {
+          "stage": "Entry Requirement",
+          "requirement": "93 OVR or higher",
+          "reward": "Cup Mode access",
+          "details": "The official update states that your team must be 93 OVR or higher to join a Cup."
+        },
+        {
+          "stage": "Tournament Goal",
+          "requirement": "Use your best team",
+          "reward": "Cup wins",
+          "details": "Cup Mode uses your strongest squad in a tournament format. The goal is to compete and win the Cup."
+        },
+        {
+          "stage": "Cup Player Unlock",
+          "requirement": "Win 5 Cups",
+          "reward": "105+ OVR Cup standout cards",
+          "details": "After winning 5 Cups, players can unlock 105+ OVR Cup standout cards."
+        },
+        {
+          "stage": "Premium Captains",
+          "requirement": "Complete select 2002 teams",
+          "reward": "Premium Captain cards",
+          "details": "The Cup update adds Premium Captains as a collection reward for select 2002 teams."
+        },
+        {
+          "stage": "Quest Boost",
+          "requirement": "Complete quests during progression",
+          "reward": "Rerolls and Refreshes",
+          "details": "Quests now give Rerolls and Refreshes, helping players improve weak positions while preparing for Cup Mode."
+        },
+        {
+          "stage": "Reward Multiplier",
+          "requirement": "2X Rewards Pass",
+          "reward": "Doubled quest, team completion, and Cup game rewards",
+          "details": "The 2X Rewards Pass doubles quests, rewards from completing teams, and rewards from winning Cup games."
+        },
+        {
+          "stage": "Team Display",
+          "requirement": "Build a top team",
+          "reward": "Top 3 Best Teams podium",
+          "details": "The Cup update adds a podium that displays the Top 3 Best Teams."
+        }
+      ]
+    },
+    "squadRatingCalculator": {
+      "eyebrow": "OVR Calculator",
+      "title": "Build A Soccer Squad Squad Rating Calculator",
+      "subtitle": "Use your starting lineup ratings to see how close your team is to the Cup requirement. Focus upgrades on weak starting positions before spending resources on bench depth.",
+      "intro": "Cup Mode requires a squad rating of 93 OVR or higher, so the fastest upgrade path is simple: check your starting lineup, find the lowest-rated positions, then replace those slots with stronger cards from Captains, Prime players, Cup players, shop purchases, quests, rerolls, and refreshes.",
+      "inputs": [
+        {
+          "label": "Cup Entry Target",
+          "value": "93 OVR",
+          "description": "Your squad must be 93 OVR or higher to enter Cup Mode."
+        },
+        {
+          "label": "Cup Standout Goal",
+          "value": "105+ OVR",
+          "description": "After winning 5 cups, players can unlock 105+ OVR Cup standout cards."
+        },
+        {
+          "label": "Main Calculator Inputs",
+          "value": "Starting lineup OVR slots",
+          "description": "Enter the OVR shown on each starting player card, then sort the lineup from lowest to highest to find the best upgrade targets."
+        },
+        {
+          "label": "Upgrade Priority",
+          "value": "Lowest starter first",
+          "description": "A high-rated card improves your squad most when it replaces a weak starting position. Prime players, Captains, Premium Captains, Legends, and Cup cards are the main high-OVR upgrade paths."
+        },
+        {
+          "label": "Position Planning",
+          "value": "Fix the lineup before the collection",
+          "description": "Use shop purchases, rerolls, refreshes, and quests to fill weak positions instead of collecting strong cards that do not improve your active squad."
+        }
+      ]
+    },
+    "captainsGuide": {
+      "eyebrow": "Captain Unlocks",
+      "title": "Build A Soccer Squad Captains Guide",
+      "subtitle": "Captains are collection-based upgrades tied to completing specific squads. They are best treated as long-term roster goals rather than random side rewards.",
+      "intro": "Build A Soccer Squad uses team completion as a major progression path. Select 2026 squads can unlock 99 OVR Captains, while Premium Captains are tied to completing select 2002 teams. Before spending rerolls or refreshes, choose one target squad and finish missing players one by one, because half-finished teams do not unlock the captain reward.",
+      "unlocks": [
+        {
+          "type": "2026 Squad Captain",
+          "reward": "99 OVR Captain",
+          "requirement": "Collect the entirety of a select 2026 squad.",
+          "use": "Best for players building around one modern squad and pushing toward stronger starting-lineup upgrades."
+        },
+        {
+          "type": "Premium Captain",
+          "reward": "Captain unlock",
+          "requirement": "Complete select teams from 2002.",
+          "use": "Best for players using the 2002 World Cup Teams path as a premium collection route."
+        },
+        {
+          "type": "Team Completion Progress",
+          "reward": "Squad-based reward progress",
+          "requirement": "Buy, roll, or earn missing players until the required squad is complete.",
+          "use": "Use Daily Shop purchases and refreshes to fill missing slots instead of chasing unrelated high-OVR cards."
+        },
+        {
+          "type": "Rare Variant Access",
+          "reward": "Rare roll variant access",
+          "requirement": "Purchasing or completing a quest for a player unlocks that character to be rolled as a rare player variant.",
+          "use": "Useful after you target specific players for squad completion or long-term collection value."
+        }
+      ]
+    },
+    "primePlayersGuide": {
+      "eyebrow": "Prime Players",
+      "title": "Build A Soccer Squad Prime Players Guide",
+      "subtitle": "Prime players are the main 100+ OVR chase outside Cup standout cards. Watch the Hourly Shop, use the Daily Shop for team progress, and avoid wasting refreshes on players that do not improve your lineup.",
+      "intro": "The Prime update added 20 100+ OVR Prime players to the Hourly Shop, while the Daily Shop supports 2026 team purchases. For fast squad growth, use Prime cards for immediate OVR jumps and shop purchases for Captain progress.",
+      "players": [
+        {
+          "title": "Prime Players",
+          "badge": "100+ OVR",
+          "source": "Hourly Shop",
+          "description": "Prime players are high-rating cards available through the Hourly Shop and are useful for immediate starting-lineup upgrades."
+        },
+        {
+          "title": "Hourly Shop",
+          "badge": "Prime Rotation",
+          "source": "In-game shop",
+          "description": "Check the Hourly Shop for 100+ OVR Prime player purchases before spending resources on random upgrades."
+        },
+        {
+          "title": "Daily Shop",
+          "badge": "2026 Teams",
+          "source": "In-game shop",
+          "description": "The Daily Shop includes 2026 team purchases, making it useful for filling missing squad slots and working toward Captain unlocks."
+        },
+        {
+          "title": "Rare Player Variants",
+          "badge": "Unlockable Rolls",
+          "source": "Purchases and quests",
+          "description": "Purchasing or completing a quest for a player unlocks that character to be rolled as a rare player variant."
+        },
+        {
+          "title": "Cup Standout Cards",
+          "badge": "105+ OVR",
+          "source": "Cup wins",
+          "description": "After winning 5 cups, players can unlock 105+ OVR Cup standout cards, which sit above Prime cards in raw rating."
+        },
+        {
+          "title": "Large Player Pool",
+          "badge": "1000+ Players",
+          "source": "Build A Soccer Squad roster",
+          "description": "The game features more than 1000 collectible players from 1970 to today, so shop targeting matters more than random collecting."
+        }
+      ]
+    },
+    "rerollsAndRefreshes": {
+      "eyebrow": "Resources",
+      "title": "Build A Soccer Squad Rerolls Refreshes and Rewards",
+      "subtitle": "Rerolls and Refreshes are core tools for improving your squad and filling collection gaps. Spend them around clear goals: Captain progress, Prime upgrades, Cup entry, or rare variant access.",
+      "intro": "Build A Soccer Squad now gives Rerolls and Refreshes through quests, supports bulk shop purchases, and includes a 2X Rewards pass that boosts quest rewards, team completion rewards, and Cup game rewards. Use resources with a target squad in mind, because random refreshes rarely move a squad forward.",
+      "resources": [
+        {
+          "name": "Rerolls",
+          "source": "Quests and shop bundles",
+          "use": "Chase better player results and rare variants.",
+          "timing": "Use after choosing a target squad, position gap, or high-OVR upgrade goal."
+        },
+        {
+          "name": "Refreshes",
+          "source": "Quests and shop bundles",
+          "use": "Refresh available player or shop options.",
+          "timing": "Use when the shop can help finish a team, fill a weak lineup slot, or support Captain progress."
+        },
+        {
+          "name": "Quests",
+          "source": "In-game objectives",
+          "use": "Earn Rerolls and Refreshes, and unlock player access through quest completion.",
+          "timing": "Prioritize quests tied to players or resources that match your current squad plan."
+        },
+        {
+          "name": "2X Rewards Pass",
+          "source": "Game pass",
+          "use": "Doubles quests and rewards from completing teams and winning Cup games.",
+          "timing": "Most useful when farming quests, finishing multiple teams, or repeatedly playing Cup Mode."
+        },
+        {
+          "name": "Team Completion Rewards",
+          "source": "Completing squads",
+          "use": "Progress toward Captain unlocks and reward payouts.",
+          "timing": "Focus on one team at a time so each purchase or roll moves you closer to a real unlock."
+        },
+        {
+          "name": "Cup Game Rewards",
+          "source": "Cup Mode wins",
+          "use": "Earn Cup-related rewards and progress toward 105+ OVR Cup standout unlocks.",
+          "timing": "Start farming after your squad reaches the 93 OVR Cup requirement."
+        },
+        {
+          "name": "Group Rewards",
+          "source": "Bloxheed Roblox community",
+          "use": "Join the group for updates, more content, and in-game rewards.",
+          "timing": "Claim before serious progression so you do not miss easy early value."
         }
       ]
     }
@@ -749,31 +454,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Build A Soccer Squad",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "Does Build A Soccer Squad have redeem codes right now?",
+        "answer": "The official Roblox page for Build A Soccer Squad does not list a public redeem code string yet, but it does tease a Double Rewards and Codes event. Always check the official Roblox page first, because quest rewards, group rewards, and the 2X Rewards pass are the active reward paths today."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I enter Cup Mode in Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad requires a squad rated 93 OVR or higher to enter Cup Mode. Once you pass the 93 OVR gate, you can compete in tournaments for Cup wins, Premium Captains, and 105+ OVR Cup standout cards after 5 Cup wins."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "What is the highest OVR in Build A Soccer Squad?",
+        "answer": "The highest listed card tier in Build A Soccer Squad is the 105+ OVR Cup standout cards unlocked after winning 5 Cups. Below that sit 100+ OVR Prime players in the Hourly Shop and 99 OVR Captains from completing select 2026 squads."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How do I unlock Captains in Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad rewards Captains through squad completion. Collecting the entirety of a select 2026 squad unlocks a 99 OVR Captain, while Premium Captains come from completing select 2002 teams. Focus one squad at a time, because half-finished teams do not unlock the captain."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Where can I play Build A Soccer Squad?",
+        "answer": "Build A Soccer Squad is a Roblox experience published by Bloxheed. You can play it through the official Roblox game page on any device that supports Roblox, and joining the Bloxheed community group links you to updates and in-game rewards."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "What are Prime players in Build A Soccer Squad?",
+        "answer": "Prime players in Build A Soccer Squad are 100+ OVR cards added by the Prime update. There are 20 Prime players rotating through the Hourly Shop, and they are the fastest mid-game upgrade for pushing your Starting XI toward the 93 OVR Cup entry gate."
       }
     ]
   },
@@ -801,121 +506,121 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "title": "Build A Soccer Squad Guides",
+      "description": "Complete gameplay guides from beginner basics to Cup Mode strategies. Master squad building and collection.",
+      "metaTitle": "Build A Soccer Squad Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete Build A Soccer Squad guides covering beginner tips, Cup Mode, tier lists, squad building, and expert tactics for mastering the Roblox soccer collector.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
+      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, squad building strategies, and Cup Mode. Learn everything from first rolls to advanced collection tactics.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
+        "step1Description": "Understand the squad building loop and avoid common beginner mistakes",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
+        "step2Description": "Follow proven paths to raise OVR and reach Cup Mode",
         "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step3Description": "Develop advanced tactics for Captains, Prime players, and Cup wins"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "tierlist": {
+      "title": "Build A Soccer Squad Tier List",
+      "description": "Master card priorities with OVR ceilings, unlock paths, and progression value for every stage.",
+      "metaTitle": "Build A Soccer Squad Tier List - Best Cards & Players",
+      "metaDescription": "Master the Build A Soccer Squad tier list. Learn OVR ceilings, unlock paths, and the best Cup, Prime, and Captain cards for every progression stage.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "What is the Tier List?",
+      "whatIsDescription": "A practical ranking of every card tier, from 105+ OVR Cup standouts down to early filler rolls, based on known OVR ceilings and unlock paths.",
+      "why": "Why use the tier list?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Prioritize Targets",
+        "step1Description": "Focus resources on the cards that move your squad forward",
+        "step2Title": "Plan Unlocks",
+        "step2Description": "Map Captains, Prime players, and Cup cards to your goals",
+        "step3Title": "Avoid Waste",
+        "step3Description": "Skip filler rolls that do not improve your Starting XI"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Tier List Guides"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "players": {
+      "title": "Build A Soccer Squad Players",
+      "description": "Detailed player guides covering Captains, Prime players, Cup cards, and collection strategies.",
+      "metaTitle": "Build A Soccer Squad Players - Captains, Prime & Cup Cards",
+      "metaDescription": "Complete player database for Build A Soccer Squad including Captains, Prime players, and Cup standout cards. Learn how to unlock and use every high-OVR player.",
+      "categoryLabel": "PLAYERS & CARDS",
+      "whatIs": "What are Players?",
+      "whatIsDescription": "Comprehensive guides for Captains, Prime players, Cup cards, and collectible footballers. Learn unlock requirements, OVR ceilings, and squad fit.",
+      "why": "Why check player guides?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Plan Captains",
+        "step1Description": "Complete select squads to unlock 99 OVR Captains",
+        "step2Title": "Chase Prime Cards",
+        "step2Description": "Watch the Hourly Shop for 100+ OVR Prime upgrades",
+        "step3Title": "Target Cup Standouts",
+        "step3Description": "Win 5 Cups to unlock 105+ OVR Cup cards"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Players"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "cupmode": {
+      "title": "Build A Soccer Squad Cup Mode",
+      "description": "Explore Cup Mode requirements, tournament progression, and 105+ OVR Cup card unlocks.",
+      "metaTitle": "Build A Soccer Squad Cup Mode - Entry, Wins & Rewards",
+      "metaDescription": "Explore Build A Soccer Squad Cup Mode including the 93 OVR entry gate, Cup wins, Premium Captains, and 105+ OVR Cup standout card unlocks.",
+      "categoryLabel": "CUP MODE",
+      "whatIs": "What is Cup Mode?",
+      "whatIsDescription": "Guides to the Cup Mode tournament system, entry requirements, reward paths, and the 105+ OVR Cup standout cards unlocked after 5 Cup wins.",
+      "why": "Why play Cup Mode?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Hit 93 OVR",
+        "step1Description": "Reach the squad rating required to enter tournaments",
+        "step2Title": "Win Cups",
+        "step2Description": "Compete with your best squad for Cup victories",
+        "step3Title": "Unlock Cup Cards",
+        "step3Description": "Earn 105+ OVR standouts after 5 Cup wins"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Cup Mode Guides"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "shop": {
+      "title": "Build A Soccer Squad Shop",
+      "description": "Master the Hourly Shop, Daily Shop, rerolls, refreshes, and resource spending for squads.",
+      "metaTitle": "Build A Soccer Squad Shop - Rerolls, Refreshes & Resources",
+      "metaDescription": "Master the Build A Soccer Squad shop with Hourly Shop Prime players, Daily Shop team purchases, rerolls, refreshes, and the 2X Rewards pass.",
+      "categoryLabel": "SHOP & RESOURCES",
+      "whatIs": "What is the Shop?",
+      "whatIsDescription": "Guides to the Hourly Shop, Daily Shop, rerolls, refreshes, quests, and the 2X Rewards pass. Learn when to spend and when to save.",
+      "why": "Why plan shop spending?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Save Rerolls",
+        "step1Description": "Spend rerolls on target squads and high-OVR upgrades",
+        "step2Title": "Time Refreshes",
+        "step2Description": "Refresh when the shop fills a real lineup gap",
+        "step3Title": "Stack Rewards",
+        "step3Description": "Use the 2X pass during quest and Cup farming"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Shop Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
+      "title": "Build A Soccer Squad Support",
+      "description": "Platform tips, Roblox setup, and troubleshooting for common Build A Soccer Squad issues.",
+      "metaTitle": "Build A Soccer Squad Support - Setup & Troubleshooting",
+      "metaDescription": "Get support for Build A Soccer Squad including Roblox setup, mobile and PC tips, performance, and troubleshooting common issues.",
+      "categoryLabel": "SUPPORT",
       "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
+      "whatIsDescription": "Guides covering Roblox platform setup, device compatibility, performance tips, and fixes for common Build A Soccer Squad issues.",
       "why": "Why check support?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
+        "step1Title": "Fix Setup Issues",
+        "step1Description": "Resolve loading and compatibility problems on your device",
         "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step2Description": "Configure Roblox settings for smoother squad building",
+        "step3Title": "Stay Updated",
+        "step3Description": "Track patch notes and new Cup Mode content"
       },
       "featured": "Featured & Essential",
       "all": "All Support Articles"
