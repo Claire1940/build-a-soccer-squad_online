@@ -1,4 +1,14 @@
-import type { LucideIcon } from 'lucide-react'
+import {
+	BookOpen,
+	Coins,
+	Dices,
+	type LucideIcon,
+	Medal,
+	Sparkles,
+	Ticket,
+	Trophy,
+	Users,
+} from 'lucide-react'
 
 export interface NavigationItem {
 	key: string // 用于翻译键，如 'codes' -> t('nav.codes')
@@ -7,7 +17,16 @@ export interface NavigationItem {
 	isContentType: boolean // 是否对应 content/ 目录
 }
 
-export const NAVIGATION_CONFIG: NavigationItem[] = []
+export const NAVIGATION_CONFIG: NavigationItem[] = [
+	{ key: 'guide', path: '/guide', icon: BookOpen, isContentType: true },
+	{ key: 'codes', path: '/codes', icon: Ticket, isContentType: true },
+	{ key: 'team', path: '/team', icon: Users, isContentType: true },
+	{ key: 'reroll', path: '/reroll', icon: Dices, isContentType: true },
+	{ key: 'money', path: '/money', icon: Coins, isContentType: true },
+	{ key: 'cup', path: '/cup', icon: Trophy, isContentType: true },
+	{ key: 'update', path: '/update', icon: Sparkles, isContentType: true },
+	{ key: 'ranks', path: '/ranks', icon: Medal, isContentType: true },
+]
 
 // 从配置派生内容类型列表（用于路由和内容加载）
 export const CONTENT_TYPES = NAVIGATION_CONFIG.filter((item) => item.isContentType).map(

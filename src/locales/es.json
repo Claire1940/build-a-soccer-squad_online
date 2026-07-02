@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "guide": "Guía",
+    "codes": "Códigos",
+    "team": "Equipo",
+    "reroll": "Reroll",
+    "money": "Dinero",
+    "cup": "Copa",
+    "update": "Actualización",
+    "ranks": "Rangos"
+  }
+}

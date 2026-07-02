@@ -10,7 +10,16 @@
       "twitterDescription": "Build A Soccer Squad Wiki covers codes status, tier list, players, captains, Cup Mode, chemistry, shop, rerolls, and beginner tips for Roblox."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "team": "Team",
+    "reroll": "Reroll",
+    "money": "Money",
+    "cup": "Cup",
+    "update": "Update",
+    "ranks": "Ranks"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -505,125 +514,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Build A Soccer Squad Guides",
-      "description": "Complete gameplay guides from beginner basics to Cup Mode strategies. Master squad building and collection.",
-      "metaTitle": "Build A Soccer Squad Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Build A Soccer Squad guides covering beginner tips, Cup Mode, tier lists, squad building, and expert tactics for mastering the Roblox soccer collector.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, squad building strategies, and Cup Mode. Learn everything from first rolls to advanced collection tactics.",
-      "why": "Why read guides?",
+    "guide": {
+      "title": "Build A Soccer Squad Guide",
+      "description": "Complete beginner to advanced guides covering the squad building loop, OVR progression, and the road to Cup Mode.",
+      "metaTitle": "Build A Soccer Squad Guide - Beginner Tips, Progression & Cup Mode",
+      "metaDescription": "Master Build A Soccer Squad on Roblox with full guides on the collection loop, OVR grinding, reroll strategy, and reaching the 93 OVR Cup Mode gate.",
+      "categoryLabel": "GAME GUIDE",
+      "whatIs": "What is the Build A Soccer Squad Guide?",
+      "whatIsDescription": "Step-by-step walkthroughs that take you from your first roll to a Cup-ready squad, covering core mechanics, the collection loop, resource management, and the OVR milestones that unlock Captains and Cup Mode.",
+      "why": "Why read the guide?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the squad building loop and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to raise OVR and reach Cup Mode",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for Captains, Prime players, and Cup wins"
+        "step1Description": "Understand the squad building loop, player cards, and the reroll economy from day one",
+        "step2Title": "Progress Fast",
+        "step2Description": "Follow proven routes to raise OVR quickly and avoid wasting rerolls early",
+        "step3Title": "Reach Cup Mode",
+        "step3Description": "Hit the 93 OVR entry gate and prepare your Starting XI for tournament play"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "tierlist": {
-      "title": "Build A Soccer Squad Tier List",
-      "description": "Master card priorities with OVR ceilings, unlock paths, and progression value for every stage.",
-      "metaTitle": "Build A Soccer Squad Tier List - Best Cards & Players",
-      "metaDescription": "Master the Build A Soccer Squad tier list. Learn OVR ceilings, unlock paths, and the best Cup, Prime, and Captain cards for every progression stage.",
-      "categoryLabel": "TIER LIST",
-      "whatIs": "What is the Tier List?",
-      "whatIsDescription": "A practical ranking of every card tier, from 105+ OVR Cup standouts down to early filler rolls, based on known OVR ceilings and unlock paths.",
-      "why": "Why use the tier list?",
+    "codes": {
+      "title": "Build A Soccer Squad Codes",
+      "description": "Track the latest Build A Soccer Squad codes status, reward sources, and the upcoming Double Rewards and Codes event.",
+      "metaTitle": "Build A Soccer Squad Codes - Reward Status & Redeem Guide",
+      "metaDescription": "Get the current Build A Soccer Squad codes status, where rewards come from today, and how to prepare for the upcoming Double Rewards and Codes event on Roblox.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Build A Soccer Squad Codes?",
+      "whatIsDescription": "Build A Soccer Squad currently rewards players through quests and group membership rather than redeemable text strings, with an official Double Rewards and Codes event confirmed to bring the first redeemable codes. This section tracks real reward sources and flags fake code lists.",
+      "why": "Why follow the codes page?",
       "whySteps": {
-        "step1Title": "Prioritize Targets",
-        "step1Description": "Focus resources on the cards that move your squad forward",
-        "step2Title": "Plan Unlocks",
-        "step2Description": "Map Captains, Prime players, and Cup cards to your goals",
-        "step3Title": "Avoid Waste",
-        "step3Description": "Skip filler rolls that do not improve your Starting XI"
+        "step1Title": "Track Real Rewards",
+        "step1Description": "See exactly where free gems, rerolls, and stat chips come from right now",
+        "step2Title": "Spot Fake Codes",
+        "step2Description": "Avoid third-party code lists that publish strings which do not exist in game",
+        "step3Title": "Prepare for the Codes Event",
+        "step3Description": "Be ready to redeem the first real codes the moment the Double Rewards event goes live"
       },
       "featured": "Featured & Essential",
-      "all": "All Tier List Guides"
+      "all": "All Codes Guides"
     },
-    "players": {
-      "title": "Build A Soccer Squad Players",
-      "description": "Detailed player guides covering Captains, Prime players, Cup cards, and collection strategies.",
-      "metaTitle": "Build A Soccer Squad Players - Captains, Prime & Cup Cards",
-      "metaDescription": "Complete player database for Build A Soccer Squad including Captains, Prime players, and Cup standout cards. Learn how to unlock and use every high-OVR player.",
-      "categoryLabel": "PLAYERS & CARDS",
-      "whatIs": "What are Players?",
-      "whatIsDescription": "Comprehensive guides for Captains, Prime players, Cup cards, and collectible footballers. Learn unlock requirements, OVR ceilings, and squad fit.",
-      "why": "Why check player guides?",
+    "team": {
+      "title": "Build A Soccer Squad Team",
+      "description": "Build the best Build A Soccer Squad team with player rankings, chemistry, formations, and squad rating strategies.",
+      "metaTitle": "Build A Soccer Squad Team - Best Players, Chemistry & Formations",
+      "metaDescription": "Build the highest rated Build A Soccer Squad team. Compare best players and cards, optimize chemistry, pick the best formation, and push your squad rating to 97 OVR and beyond.",
+      "categoryLabel": "TEAM BUILDING",
+      "whatIs": "What is Team Building?",
+      "whatIsDescription": "Everything that goes into constructing a high rated squad: the best players and cards by OVR and position, chemistry links, formation choice, and the squad rating math that determines your overall strength and Cup eligibility.",
+      "why": "Why focus on your team?",
       "whySteps": {
-        "step1Title": "Plan Captains",
-        "step1Description": "Complete select squads to unlock 99 OVR Captains",
-        "step2Title": "Chase Prime Cards",
-        "step2Description": "Watch the Hourly Shop for 100+ OVR Prime upgrades",
-        "step3Title": "Target Cup Standouts",
-        "step3Description": "Win 5 Cups to unlock 105+ OVR Cup cards"
+        "step1Title": "Pick the Best Players",
+        "step1Description": "Compare top cards by OVR, position, and Cup value to fill every lineup slot",
+        "step2Title": "Optimize Chemistry",
+        "step2Description": "Use nation, position, and rating links to boost your squad rating",
+        "step3Title": "Choose the Best Formation",
+        "step3Description": "Match your formation to your highest rated cards and push toward 97 OVR"
       },
       "featured": "Featured & Essential",
-      "all": "All Players"
+      "all": "All Team Guides"
     },
-    "cupmode": {
-      "title": "Build A Soccer Squad Cup Mode",
-      "description": "Explore Cup Mode requirements, tournament progression, and 105+ OVR Cup card unlocks.",
-      "metaTitle": "Build A Soccer Squad Cup Mode - Entry, Wins & Rewards",
-      "metaDescription": "Explore Build A Soccer Squad Cup Mode including the 93 OVR entry gate, Cup wins, Premium Captains, and 105+ OVR Cup standout card unlocks.",
+    "reroll": {
+      "title": "Build A Soccer Squad Reroll",
+      "description": "Master the Build A Soccer Squad reroll system with free reroll routes, smart reroll timing, and when to buy rerolls.",
+      "metaTitle": "Build A Soccer Squad Reroll - Free, Smart & Buy Reroll Guide",
+      "metaDescription": "Learn the full Build A Soccer Squad reroll system: earn free rerolls from quests, spend them smartly on target positions, and decide when buying rerolls is worth it.",
+      "categoryLabel": "REROLLS",
+      "whatIs": "What is the Reroll System?",
+      "whatIsDescription": "The reroll system lets you refresh player cards and shop offers to chase higher OVR players and specific positions. Rerolls are earned from quests and events, can be spent strategically, or purchased with Robux when a high value target appears.",
+      "why": "Why manage rerolls carefully?",
+      "whySteps": {
+        "step1Title": "Earn Free Rerolls",
+        "step1Description": "Stack free rerolls from daily quests and events before spending anything",
+        "step2Title": "Reroll Smart",
+        "step2Description": "Save rerolls for weak positions and high OVR targets instead of random refreshes",
+        "step3Title": "Know When to Buy",
+        "step3Description": "Only spend Robux on rerolls when a Prime or Captain card is on offer"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Reroll Guides"
+    },
+    "money": {
+      "title": "Build A Soccer Squad Money",
+      "description": "Make money fast in Build A Soccer Squad with the best money methods, smart spending, and Robux value guides.",
+      "metaTitle": "Build A Soccer Squad Money - Best Methods, Fast Coins & Robux",
+      "metaDescription": "Find the best Build A Soccer Squad money methods. Learn how to earn coins fast, where to spend them first, and which Robux purchases actually speed up your squad.",
+      "categoryLabel": "MONEY & ROBUX",
+      "whatIs": "What is the Money System?",
+      "whatIsDescription": "The in-game economy covers coins earned from matches, quests, and Cups, plus Robux purchases like rerolls, refreshes, and the 2X Rewards pass. Understanding both tracks lets you progress without wasting real money or grind time.",
+      "why": "Why plan your money?",
+      "whySteps": {
+        "step1Title": "Earn Money Fast",
+        "step1Description": "Use the most efficient quests and Cup farming routes to stack coins quickly",
+        "step2Title": "Spend Money Smart",
+        "step2Description": "Prioritize rerolls and refreshes that fix real lineup gaps over random buys",
+        "step3Title": "Use Robux Wisely",
+        "step3Description": "Only buy Robux items like the 2X pass when they multiply your existing grind"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Money Guides"
+    },
+    "cup": {
+      "title": "Build A Soccer Squad Cup",
+      "description": "Master Build A Soccer Squad Cup Mode with the 93 OVR entry gate, PvE and PvP cups, and 105+ OVR Cup card unlocks.",
+      "metaTitle": "Build A Soccer Squad Cup Mode - Entry, Wins & 105+ Cards",
+      "metaDescription": "Conquer Build A Soccer Squad Cup Mode. Learn the 93 OVR entry requirement, PvE and PvP cup formats, the final, and the 105+ OVR Cup cards unlocked after 5 cup wins.",
       "categoryLabel": "CUP MODE",
       "whatIs": "What is Cup Mode?",
-      "whatIsDescription": "Guides to the Cup Mode tournament system, entry requirements, reward paths, and the 105+ OVR Cup standout cards unlocked after 5 Cup wins.",
+      "whatIsDescription": "Cup Mode is the tournament endgame of Build A Soccer Squad, gated behind a 93 OVR squad rating. It spans PvE and PvP cup formats, a final match, and the brand new cup update content that unlocks 105+ OVR Cup cards after five cup victories.",
       "why": "Why play Cup Mode?",
       "whySteps": {
         "step1Title": "Hit 93 OVR",
-        "step1Description": "Reach the squad rating required to enter tournaments",
-        "step2Title": "Win Cups",
-        "step2Description": "Compete with your best squad for Cup victories",
-        "step3Title": "Unlock Cup Cards",
-        "step3Description": "Earn 105+ OVR standouts after 5 Cup wins"
+        "step1Description": "Build a squad rating high enough to enter cup tournaments",
+        "step2Title": "Win PvE and PvP Cups",
+        "step2Description": "Compete across cup formats and reach the final for the best rewards",
+        "step3Title": "Unlock 105+ Cup Cards",
+        "step3Description": "Win five cups to unlock the strongest 105+ OVR standout cards in the game"
       },
       "featured": "Featured & Essential",
-      "all": "All Cup Mode Guides"
+      "all": "All Cup Guides"
     },
-    "shop": {
-      "title": "Build A Soccer Squad Shop",
-      "description": "Master the Hourly Shop, Daily Shop, rerolls, refreshes, and resource spending for squads.",
-      "metaTitle": "Build A Soccer Squad Shop - Rerolls, Refreshes & Resources",
-      "metaDescription": "Master the Build A Soccer Squad shop with Hourly Shop Prime players, Daily Shop team purchases, rerolls, refreshes, and the 2X Rewards pass.",
-      "categoryLabel": "SHOP & RESOURCES",
-      "whatIs": "What is the Shop?",
-      "whatIsDescription": "Guides to the Hourly Shop, Daily Shop, rerolls, refreshes, quests, and the 2X Rewards pass. Learn when to spend and when to save.",
-      "why": "Why plan shop spending?",
+    "update": {
+      "title": "Build A Soccer Squad Update",
+      "description": "Track every Build A Soccer Squad update, from new content and major updates to the brand new Cup update.",
+      "metaTitle": "Build A Soccer Squad Update - Patch Notes, New & Major Updates",
+      "metaDescription": "Stay current with every Build A Soccer Squad update. Read patch notes, major updates, and the brand new Cup update that added Cup Mode, 105+ cards, and new events.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What are Build A Soccer Squad Updates?",
+      "whatIsDescription": "Updates cover every patch and content drop from developer Bloxheed, including quality of life fixes, new player cards, and major updates like the brand new Cup update that introduced Cup Mode, tournament play, and the 105+ OVR card pool.",
+      "why": "Why follow updates?",
       "whySteps": {
-        "step1Title": "Save Rerolls",
-        "step1Description": "Spend rerolls on target squads and high-OVR upgrades",
-        "step2Title": "Time Refreshes",
-        "step2Description": "Refresh when the shop fills a real lineup gap",
-        "step3Title": "Stack Rewards",
-        "step3Description": "Use the 2X pass during quest and Cup farming"
+        "step1Title": "Catch New Content",
+        "step1Description": "See new cards, events, and features the moment each update lands",
+        "step2Title": "Understand Major Updates",
+        "step2Description": "Learn how big drops like the Cup update reshape the meta and your goals",
+        "step3Title": "Plan Around Changes",
+        "step3Description": "Adjust your reroll, money, and team strategy based on what each update changes"
       },
       "featured": "Featured & Essential",
-      "all": "All Shop Guides"
+      "all": "All Update Guides"
     },
-    "support": {
-      "title": "Build A Soccer Squad Support",
-      "description": "Platform tips, Roblox setup, and troubleshooting for common Build A Soccer Squad issues.",
-      "metaTitle": "Build A Soccer Squad Support - Setup & Troubleshooting",
-      "metaDescription": "Get support for Build A Soccer Squad including Roblox setup, mobile and PC tips, performance, and troubleshooting common issues.",
-      "categoryLabel": "SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Guides covering Roblox platform setup, device compatibility, performance tips, and fixes for common Build A Soccer Squad issues.",
-      "why": "Why check support?",
+    "ranks": {
+      "title": "Build A Soccer Squad Ranks",
+      "description": "Understand Build A Soccer Squad ranks and card tiers, from early progression to 105+ OVR Cup cards and Captains.",
+      "metaTitle": "Build A Soccer Squad Ranks - Card Tiers, OVR & Captain Unlocks",
+      "metaDescription": "Master Build A Soccer Squad ranks on Roblox. Explore card tiers, OVR ceilings, 105+ OVR Cup cards, Prime players, and 99 OVR Captain unlocks for 2026.",
+      "categoryLabel": "RANKS",
+      "whatIs": "What are Build A Soccer Squad Ranks?",
+      "whatIsDescription": "Ranks describe both your squad rating progression and the card tier list from early rolls up to 105+ OVR Cup cards, Prime players, and 99 OVR Captains. Knowing the ranking helps you target the right cards at every stage.",
+      "why": "Why learn the ranks?",
       "whySteps": {
-        "step1Title": "Fix Setup Issues",
-        "step1Description": "Resolve loading and compatibility problems on your device",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure Roblox settings for smoother squad building",
-        "step3Title": "Stay Updated",
-        "step3Description": "Track patch notes and new Cup Mode content"
+        "step1Title": "Know the Card Tiers",
+        "step1Description": "Understand which OVR bands and card types sit at the top of the tier list",
+        "step2Title": "Target Captain Rank",
+        "step2Description": "Complete full squads to unlock 99 OVR Captains and Premium rewards",
+        "step3Title": "Chase the Top Rank",
+        "step3Description": "Aim for 105+ OVR Cup cards, the highest ranked players in the game"
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Ranks Guides"
     }
   }
 }

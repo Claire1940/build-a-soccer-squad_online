@@ -1,1 +1,698 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "build-a-soccer-squad-codes",
+        "file": "build-a-soccer-squad-codes"
+      }
+    ],
+    "cup": [
+      {
+        "slug": "build-a-soccer-squad-cup-mode",
+        "file": "build-a-soccer-squad-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-cup-update",
+        "file": "build-a-soccer-squad-cup-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-final",
+        "file": "build-a-soccer-squad-final"
+      },
+      {
+        "slug": "build-a-soccer-squad-pve-cup-mode",
+        "file": "build-a-soccer-squad-pve-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-pvp-cup-mode",
+        "file": "build-a-soccer-squad-pvp-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-tournament-update",
+        "file": "build-a-soccer-squad-tournament-update"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "build-a-soccer-squad-beginner-guide",
+        "file": "build-a-soccer-squad-beginner-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-complete-guide",
+        "file": "build-a-soccer-squad-complete-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-guide",
+        "file": "build-a-soccer-squad-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-how-to-play",
+        "file": "build-a-soccer-squad-how-to-play"
+      },
+      {
+        "slug": "build-a-soccer-squad-noob-to-pro",
+        "file": "build-a-soccer-squad-noob-to-pro"
+      },
+      {
+        "slug": "build-a-soccer-squad-roblox",
+        "file": "build-a-soccer-squad-roblox"
+      },
+      {
+        "slug": "build-a-soccer-squad-tips-and-tricks",
+        "file": "build-a-soccer-squad-tips-and-tricks"
+      }
+    ],
+    "money": [
+      {
+        "slug": "build-a-soccer-squad-best-money-method",
+        "file": "build-a-soccer-squad-best-money-method"
+      },
+      {
+        "slug": "build-a-soccer-squad-money-fast",
+        "file": "build-a-soccer-squad-money-fast"
+      },
+      {
+        "slug": "build-a-soccer-squad-money",
+        "file": "build-a-soccer-squad-money"
+      },
+      {
+        "slug": "build-a-soccer-squad-robux",
+        "file": "build-a-soccer-squad-robux"
+      },
+      {
+        "slug": "build-a-soccer-squad-spend-money",
+        "file": "build-a-soccer-squad-spend-money"
+      }
+    ],
+    "ranks": [
+      {
+        "slug": "build-a-soccer-squad-ranks",
+        "file": "build-a-soccer-squad-ranks"
+      }
+    ],
+    "reroll": [
+      {
+        "slug": "build-a-soccer-squad-buy-rerolls",
+        "file": "build-a-soccer-squad-buy-rerolls"
+      },
+      {
+        "slug": "build-a-soccer-squad-free-reroll",
+        "file": "build-a-soccer-squad-free-reroll"
+      },
+      {
+        "slug": "build-a-soccer-squad-reroll-system",
+        "file": "build-a-soccer-squad-reroll-system"
+      },
+      {
+        "slug": "build-a-soccer-squad-rerolls",
+        "file": "build-a-soccer-squad-rerolls"
+      },
+      {
+        "slug": "build-a-soccer-squad-smart-reroll",
+        "file": "build-a-soccer-squad-smart-reroll"
+      }
+    ],
+    "team": [
+      {
+        "slug": "build-a-soccer-squad-97-ovr",
+        "file": "build-a-soccer-squad-97-ovr"
+      },
+      {
+        "slug": "build-a-soccer-squad-all-players",
+        "file": "build-a-soccer-squad-all-players"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-cards",
+        "file": "build-a-soccer-squad-best-cards"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-formation",
+        "file": "build-a-soccer-squad-best-formation"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-players",
+        "file": "build-a-soccer-squad-best-players"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-team",
+        "file": "build-a-soccer-squad-best-team"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-world-cup-team",
+        "file": "build-a-soccer-squad-best-world-cup-team"
+      },
+      {
+        "slug": "build-a-soccer-squad-chemistry",
+        "file": "build-a-soccer-squad-chemistry"
+      },
+      {
+        "slug": "build-a-soccer-squad-squad-rating",
+        "file": "build-a-soccer-squad-squad-rating"
+      },
+      {
+        "slug": "build-a-soccer-squad-team-rating",
+        "file": "build-a-soccer-squad-team-rating"
+      }
+    ],
+    "update": [
+      {
+        "slug": "build-a-soccer-squad-brand-new-cup-update",
+        "file": "build-a-soccer-squad-brand-new-cup-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-major-update",
+        "file": "build-a-soccer-squad-major-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-new-update",
+        "file": "build-a-soccer-squad-new-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-update",
+        "file": "build-a-soccer-squad-update"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "build-a-soccer-squad-codes",
+        "file": "build-a-soccer-squad-codes"
+      }
+    ],
+    "cup": [
+      {
+        "slug": "build-a-soccer-squad-cup-mode",
+        "file": "build-a-soccer-squad-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-cup-update",
+        "file": "build-a-soccer-squad-cup-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-final",
+        "file": "build-a-soccer-squad-final"
+      },
+      {
+        "slug": "build-a-soccer-squad-pve-cup-mode",
+        "file": "build-a-soccer-squad-pve-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-pvp-cup-mode",
+        "file": "build-a-soccer-squad-pvp-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-tournament-update",
+        "file": "build-a-soccer-squad-tournament-update"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "build-a-soccer-squad-beginner-guide",
+        "file": "build-a-soccer-squad-beginner-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-complete-guide",
+        "file": "build-a-soccer-squad-complete-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-guide",
+        "file": "build-a-soccer-squad-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-how-to-play",
+        "file": "build-a-soccer-squad-how-to-play"
+      },
+      {
+        "slug": "build-a-soccer-squad-noob-to-pro",
+        "file": "build-a-soccer-squad-noob-to-pro"
+      },
+      {
+        "slug": "build-a-soccer-squad-roblox",
+        "file": "build-a-soccer-squad-roblox"
+      },
+      {
+        "slug": "build-a-soccer-squad-tips-and-tricks",
+        "file": "build-a-soccer-squad-tips-and-tricks"
+      }
+    ],
+    "money": [
+      {
+        "slug": "build-a-soccer-squad-best-money-method",
+        "file": "build-a-soccer-squad-best-money-method"
+      },
+      {
+        "slug": "build-a-soccer-squad-money-fast",
+        "file": "build-a-soccer-squad-money-fast"
+      },
+      {
+        "slug": "build-a-soccer-squad-money",
+        "file": "build-a-soccer-squad-money"
+      },
+      {
+        "slug": "build-a-soccer-squad-robux",
+        "file": "build-a-soccer-squad-robux"
+      },
+      {
+        "slug": "build-a-soccer-squad-spend-money",
+        "file": "build-a-soccer-squad-spend-money"
+      }
+    ],
+    "ranks": [
+      {
+        "slug": "build-a-soccer-squad-ranks",
+        "file": "build-a-soccer-squad-ranks"
+      }
+    ],
+    "reroll": [
+      {
+        "slug": "build-a-soccer-squad-buy-rerolls",
+        "file": "build-a-soccer-squad-buy-rerolls"
+      },
+      {
+        "slug": "build-a-soccer-squad-free-reroll",
+        "file": "build-a-soccer-squad-free-reroll"
+      },
+      {
+        "slug": "build-a-soccer-squad-reroll-system",
+        "file": "build-a-soccer-squad-reroll-system"
+      },
+      {
+        "slug": "build-a-soccer-squad-rerolls",
+        "file": "build-a-soccer-squad-rerolls"
+      },
+      {
+        "slug": "build-a-soccer-squad-smart-reroll",
+        "file": "build-a-soccer-squad-smart-reroll"
+      }
+    ],
+    "team": [
+      {
+        "slug": "build-a-soccer-squad-97-ovr",
+        "file": "build-a-soccer-squad-97-ovr"
+      },
+      {
+        "slug": "build-a-soccer-squad-all-players",
+        "file": "build-a-soccer-squad-all-players"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-cards",
+        "file": "build-a-soccer-squad-best-cards"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-formation",
+        "file": "build-a-soccer-squad-best-formation"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-players",
+        "file": "build-a-soccer-squad-best-players"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-team",
+        "file": "build-a-soccer-squad-best-team"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-world-cup-team",
+        "file": "build-a-soccer-squad-best-world-cup-team"
+      },
+      {
+        "slug": "build-a-soccer-squad-chemistry",
+        "file": "build-a-soccer-squad-chemistry"
+      },
+      {
+        "slug": "build-a-soccer-squad-squad-rating",
+        "file": "build-a-soccer-squad-squad-rating"
+      },
+      {
+        "slug": "build-a-soccer-squad-team-rating",
+        "file": "build-a-soccer-squad-team-rating"
+      }
+    ],
+    "update": [
+      {
+        "slug": "build-a-soccer-squad-brand-new-cup-update",
+        "file": "build-a-soccer-squad-brand-new-cup-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-major-update",
+        "file": "build-a-soccer-squad-major-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-new-update",
+        "file": "build-a-soccer-squad-new-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-update",
+        "file": "build-a-soccer-squad-update"
+      }
+    ]
+  },
+  "id": {
+    "codes": [
+      {
+        "slug": "build-a-soccer-squad-codes",
+        "file": "build-a-soccer-squad-codes"
+      }
+    ],
+    "cup": [
+      {
+        "slug": "build-a-soccer-squad-cup-mode",
+        "file": "build-a-soccer-squad-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-cup-update",
+        "file": "build-a-soccer-squad-cup-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-final",
+        "file": "build-a-soccer-squad-final"
+      },
+      {
+        "slug": "build-a-soccer-squad-pve-cup-mode",
+        "file": "build-a-soccer-squad-pve-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-pvp-cup-mode",
+        "file": "build-a-soccer-squad-pvp-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-tournament-update",
+        "file": "build-a-soccer-squad-tournament-update"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "build-a-soccer-squad-beginner-guide",
+        "file": "build-a-soccer-squad-beginner-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-complete-guide",
+        "file": "build-a-soccer-squad-complete-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-guide",
+        "file": "build-a-soccer-squad-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-how-to-play",
+        "file": "build-a-soccer-squad-how-to-play"
+      },
+      {
+        "slug": "build-a-soccer-squad-noob-to-pro",
+        "file": "build-a-soccer-squad-noob-to-pro"
+      },
+      {
+        "slug": "build-a-soccer-squad-roblox",
+        "file": "build-a-soccer-squad-roblox"
+      },
+      {
+        "slug": "build-a-soccer-squad-tips-and-tricks",
+        "file": "build-a-soccer-squad-tips-and-tricks"
+      }
+    ],
+    "money": [
+      {
+        "slug": "build-a-soccer-squad-best-money-method",
+        "file": "build-a-soccer-squad-best-money-method"
+      },
+      {
+        "slug": "build-a-soccer-squad-money-fast",
+        "file": "build-a-soccer-squad-money-fast"
+      },
+      {
+        "slug": "build-a-soccer-squad-money",
+        "file": "build-a-soccer-squad-money"
+      },
+      {
+        "slug": "build-a-soccer-squad-robux",
+        "file": "build-a-soccer-squad-robux"
+      },
+      {
+        "slug": "build-a-soccer-squad-spend-money",
+        "file": "build-a-soccer-squad-spend-money"
+      }
+    ],
+    "ranks": [
+      {
+        "slug": "build-a-soccer-squad-ranks",
+        "file": "build-a-soccer-squad-ranks"
+      }
+    ],
+    "reroll": [
+      {
+        "slug": "build-a-soccer-squad-buy-rerolls",
+        "file": "build-a-soccer-squad-buy-rerolls"
+      },
+      {
+        "slug": "build-a-soccer-squad-free-reroll",
+        "file": "build-a-soccer-squad-free-reroll"
+      },
+      {
+        "slug": "build-a-soccer-squad-reroll-system",
+        "file": "build-a-soccer-squad-reroll-system"
+      },
+      {
+        "slug": "build-a-soccer-squad-rerolls",
+        "file": "build-a-soccer-squad-rerolls"
+      },
+      {
+        "slug": "build-a-soccer-squad-smart-reroll",
+        "file": "build-a-soccer-squad-smart-reroll"
+      }
+    ],
+    "team": [
+      {
+        "slug": "build-a-soccer-squad-97-ovr",
+        "file": "build-a-soccer-squad-97-ovr"
+      },
+      {
+        "slug": "build-a-soccer-squad-all-players",
+        "file": "build-a-soccer-squad-all-players"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-cards",
+        "file": "build-a-soccer-squad-best-cards"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-formation",
+        "file": "build-a-soccer-squad-best-formation"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-players",
+        "file": "build-a-soccer-squad-best-players"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-team",
+        "file": "build-a-soccer-squad-best-team"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-world-cup-team",
+        "file": "build-a-soccer-squad-best-world-cup-team"
+      },
+      {
+        "slug": "build-a-soccer-squad-chemistry",
+        "file": "build-a-soccer-squad-chemistry"
+      },
+      {
+        "slug": "build-a-soccer-squad-squad-rating",
+        "file": "build-a-soccer-squad-squad-rating"
+      },
+      {
+        "slug": "build-a-soccer-squad-team-rating",
+        "file": "build-a-soccer-squad-team-rating"
+      }
+    ],
+    "update": [
+      {
+        "slug": "build-a-soccer-squad-brand-new-cup-update",
+        "file": "build-a-soccer-squad-brand-new-cup-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-major-update",
+        "file": "build-a-soccer-squad-major-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-new-update",
+        "file": "build-a-soccer-squad-new-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-update",
+        "file": "build-a-soccer-squad-update"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "build-a-soccer-squad-codes",
+        "file": "build-a-soccer-squad-codes"
+      }
+    ],
+    "cup": [
+      {
+        "slug": "build-a-soccer-squad-cup-mode",
+        "file": "build-a-soccer-squad-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-cup-update",
+        "file": "build-a-soccer-squad-cup-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-final",
+        "file": "build-a-soccer-squad-final"
+      },
+      {
+        "slug": "build-a-soccer-squad-pve-cup-mode",
+        "file": "build-a-soccer-squad-pve-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-pvp-cup-mode",
+        "file": "build-a-soccer-squad-pvp-cup-mode"
+      },
+      {
+        "slug": "build-a-soccer-squad-tournament-update",
+        "file": "build-a-soccer-squad-tournament-update"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "build-a-soccer-squad-beginner-guide",
+        "file": "build-a-soccer-squad-beginner-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-complete-guide",
+        "file": "build-a-soccer-squad-complete-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-guide",
+        "file": "build-a-soccer-squad-guide"
+      },
+      {
+        "slug": "build-a-soccer-squad-how-to-play",
+        "file": "build-a-soccer-squad-how-to-play"
+      },
+      {
+        "slug": "build-a-soccer-squad-noob-to-pro",
+        "file": "build-a-soccer-squad-noob-to-pro"
+      },
+      {
+        "slug": "build-a-soccer-squad-roblox",
+        "file": "build-a-soccer-squad-roblox"
+      },
+      {
+        "slug": "build-a-soccer-squad-tips-and-tricks",
+        "file": "build-a-soccer-squad-tips-and-tricks"
+      }
+    ],
+    "money": [
+      {
+        "slug": "build-a-soccer-squad-best-money-method",
+        "file": "build-a-soccer-squad-best-money-method"
+      },
+      {
+        "slug": "build-a-soccer-squad-money-fast",
+        "file": "build-a-soccer-squad-money-fast"
+      },
+      {
+        "slug": "build-a-soccer-squad-money",
+        "file": "build-a-soccer-squad-money"
+      },
+      {
+        "slug": "build-a-soccer-squad-robux",
+        "file": "build-a-soccer-squad-robux"
+      },
+      {
+        "slug": "build-a-soccer-squad-spend-money",
+        "file": "build-a-soccer-squad-spend-money"
+      }
+    ],
+    "ranks": [
+      {
+        "slug": "build-a-soccer-squad-ranks",
+        "file": "build-a-soccer-squad-ranks"
+      }
+    ],
+    "reroll": [
+      {
+        "slug": "build-a-soccer-squad-buy-rerolls",
+        "file": "build-a-soccer-squad-buy-rerolls"
+      },
+      {
+        "slug": "build-a-soccer-squad-free-reroll",
+        "file": "build-a-soccer-squad-free-reroll"
+      },
+      {
+        "slug": "build-a-soccer-squad-reroll-system",
+        "file": "build-a-soccer-squad-reroll-system"
+      },
+      {
+        "slug": "build-a-soccer-squad-rerolls",
+        "file": "build-a-soccer-squad-rerolls"
+      },
+      {
+        "slug": "build-a-soccer-squad-smart-reroll",
+        "file": "build-a-soccer-squad-smart-reroll"
+      }
+    ],
+    "team": [
+      {
+        "slug": "build-a-soccer-squad-97-ovr",
+        "file": "build-a-soccer-squad-97-ovr"
+      },
+      {
+        "slug": "build-a-soccer-squad-all-players",
+        "file": "build-a-soccer-squad-all-players"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-cards",
+        "file": "build-a-soccer-squad-best-cards"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-formation",
+        "file": "build-a-soccer-squad-best-formation"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-players",
+        "file": "build-a-soccer-squad-best-players"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-team",
+        "file": "build-a-soccer-squad-best-team"
+      },
+      {
+        "slug": "build-a-soccer-squad-best-world-cup-team",
+        "file": "build-a-soccer-squad-best-world-cup-team"
+      },
+      {
+        "slug": "build-a-soccer-squad-chemistry",
+        "file": "build-a-soccer-squad-chemistry"
+      },
+      {
+        "slug": "build-a-soccer-squad-squad-rating",
+        "file": "build-a-soccer-squad-squad-rating"
+      },
+      {
+        "slug": "build-a-soccer-squad-team-rating",
+        "file": "build-a-soccer-squad-team-rating"
+      }
+    ],
+    "update": [
+      {
+        "slug": "build-a-soccer-squad-brand-new-cup-update",
+        "file": "build-a-soccer-squad-brand-new-cup-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-major-update",
+        "file": "build-a-soccer-squad-major-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-new-update",
+        "file": "build-a-soccer-squad-new-update"
+      },
+      {
+        "slug": "build-a-soccer-squad-update",
+        "file": "build-a-soccer-squad-update"
+      }
+    ]
+  }
+}

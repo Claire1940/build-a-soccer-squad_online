@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "guide": "Panduan",
+    "codes": "Kode",
+    "team": "Tim",
+    "reroll": "Reroll",
+    "money": "Uang",
+    "cup": "Piala",
+    "update": "Pembaruan",
+    "ranks": "Peringkat"
+  }
+}
