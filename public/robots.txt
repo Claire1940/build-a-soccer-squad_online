@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Disallow internal legal/admin pages from being indexed aggressively
+Disallow: /api/
+
+Sitemap: https://www.build-a-soccer-squad.online/sitemap.xml

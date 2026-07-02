@@ -182,7 +182,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { locale, slug } = await params
   setRequestLocale(locale)
   const contentType = slug[0]
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.build-a-soccer-squad.online'
 
   if (!isValidContentType(contentType)) {
     return { title: 'Not Found' }
@@ -234,12 +234,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       }
     } catch {
       // 如果翻译不存在，使用默认值
-      const defaultTitle = `${contentType.charAt(0).toUpperCase() + contentType.slice(1)} - Lucid Blocks Wiki`
+      const defaultTitle = `${contentType.charAt(0).toUpperCase() + contentType.slice(1)} - Build A Soccer Squad Wiki`
       const path = `/${contentType}`
 
       return {
         title: defaultTitle,
-        description: `Browse all ${contentType} content for Lucid Blocks Wiki`,
+        description: `Browse all ${contentType} content for Build A Soccer Squad Wiki`,
         alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
         robots: {
           index: true,
@@ -270,13 +270,15 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       const fullPath = `/${slug.join('/')}`
 
       return {
-        title: `${metadata.title} - Lucid Blocks Wiki`,
+        title: `${metadata.title} - Build A Soccer Squad Wiki`,
         description: metadata.description,
         alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
         openGraph: {
           title: metadata.title,
           description: metadata.description,
-          images: metadata.image ? [metadata.image] : [],
+          images: metadata.image
+            ? [metadata.image]
+            : [{ url: `${siteUrl}/images/hero.webp`, width: 1200, height: 630, alt: metadata.title }],
           url: `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`,
         },
         robots: {

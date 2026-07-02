@@ -13,7 +13,7 @@ export function ArticleStructuredData({
 	locale,
 	slug,
 }: ArticleStructuredDataProps) {
-	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.build-a-soccer-squad.online'
 	const articleUrl =
 		locale === 'en'
 			? `${siteUrl}/${contentType}/${slug}`
@@ -54,11 +54,11 @@ export function ArticleStructuredData({
 		dateModified: ('lastModified' in frontmatter && frontmatter.lastModified) || frontmatter.date,
 		author: {
 			'@type': 'Organization',
-			name: 'Lucid Blocks Wiki Team',
+			name: 'Build A Soccer Squad Wiki Team',
 		},
 		publisher: {
 			'@type': 'Organization',
-			name: 'Lucid Blocks Wiki',
+			name: 'Build A Soccer Squad Wiki',
 			logo: {
 				'@type': 'ImageObject',
 				url: `${siteUrl}/images/hero.webp`,

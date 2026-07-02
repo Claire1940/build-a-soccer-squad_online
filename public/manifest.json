@@ -1,12 +1,15 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Build A Soccer Squad Wiki - Codes, Tier List & Captains",
+  "short_name": "Soccer Squad",
+  "description": "Build A Soccer Squad Wiki covers codes status, tier list, players, captains, Cup Mode, chemistry, shop, rerolls, and beginner tips for Roblox.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "orientation": "portrait-primary",
+  "theme_color": "#1eb857",
+  "background_color": "#0a1a12",
+  "categories": ["games", "entertainment"],
+  "lang": "en",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
