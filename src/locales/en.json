@@ -10,14 +10,7 @@
       "twitterDescription": "Build A Soccer Squad Wiki covers codes status, tier list, players, captains, Cup Mode, chemistry, shop, rerolls, and beginner tips for Roblox."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
