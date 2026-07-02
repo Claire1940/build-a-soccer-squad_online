@@ -6,17 +6,28 @@ import {
   Award,
   BookOpen,
   Calculator,
+  CalendarDays,
   Check,
+  ClipboardList,
   Clock,
   Coins,
   Crown,
+  Dices,
   ExternalLink,
   Gem,
   Gift,
   GraduationCap,
+  Hash,
+  ListChecks,
   MessageCircle,
+  RefreshCw,
+  ScrollText,
+  Shuffle,
   Sparkles,
+  Target,
+  TrendingUp,
   Trophy,
+  Users,
   X,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
@@ -246,6 +257,31 @@ export default function HomePageClient({
     "captains-guide",
     "prime-players-guide",
     "rerolls-refreshes-rewards",
+  ];
+
+  // Per-module distinct card icons (每个卡片使用不同的图标，禁止重复)
+  // Module 5: 93 OVR 门槛(Target) → 105+ 目标(Trophy) → 输入(Hash) → 优先级(TrendingUp) → 规划(ClipboardList)
+  const squadCalcIcons = [Target, Trophy, Hash, TrendingUp, ClipboardList];
+  // Module 6: 4 种队长解锁路径
+  const captainIcons = [Crown, Gem, ListChecks, Shuffle];
+  // Module 7: 6 类 Prime / 球员卡来源
+  const primePlayerIcons = [
+    Sparkles,
+    RefreshCw,
+    CalendarDays,
+    Dices,
+    Trophy,
+    Users,
+  ];
+  // Module 8: 7 类资源与奖励
+  const resourceIcons = [
+    Dices,
+    RefreshCw,
+    ScrollText,
+    TrendingUp,
+    ListChecks,
+    Trophy,
+    Users,
   ];
 
   return (
@@ -635,23 +671,65 @@ export default function HomePageClient({
 
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
             {t.modules.squadRatingCalculator.inputs.map(
-              (input: any, index: number) => (
-                <div
-                  key={index}
-                  className="p-5 md:p-6 bg-white/5 border border-border rounded-xl
-                             hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
-                >
-                  <span className="text-xs font-semibold uppercase tracking-wider text-[hsl(var(--nav-theme-light))]">
-                    {input.label}
-                  </span>
-                  <p className="text-xl md:text-2xl font-bold my-2 text-[hsl(var(--nav-theme-light))]">
-                    {input.value}
-                  </p>
-                  <p className="text-sm text-muted-foreground">
-                    {input.description}
-                  </p>
-                </div>
-              )
+              (input: any, index: number) => {
+                const Icon = squadCalcIcons[index] ?? Calculator;
+                // card 0: 93 OVR Cup 入场门槛 → 全宽 target banner，作为整组核心焦点
+                if (index === 0) {
+                  return (
+                    <div
+                      key={index}
+                      className="md:col-span-2 relative overflow-hidden p-6 md:p-8 rounded-xl
+                                 bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.4)]"
+                    >
+                      <div className="flex flex-col sm:flex-row sm:items-center gap-4 md:gap-6">
+                        <div
+                          className="flex h-14 w-14 md:h-16 md:w-16 flex-shrink-0 items-center justify-center rounded-2xl
+                                     bg-[hsl(var(--nav-theme))] shadow-lg shadow-[hsl(var(--nav-theme)/0.3)]"
+                        >
+                          <Icon className="h-7 w-7 md:h-8 md:w-8 text-white" />
+                        </div>
+                        <div className="flex-1">
+                          <span className="text-xs font-semibold uppercase tracking-wider text-[hsl(var(--nav-theme-light))]">
+                            {input.label}
+                          </span>
+                          <p className="text-3xl md:text-4xl font-black my-1.5 text-[hsl(var(--nav-theme-light))]">
+                            {input.value}
+                          </p>
+                          <p className="text-sm md:text-base text-foreground/80">
+                            {input.description}
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  );
+                }
+                // card 1-4: 标准信息卡，每张配不同前置图标
+                return (
+                  <div
+                    key={index}
+                    className="p-5 md:p-6 bg-white/5 border border-border rounded-xl
+                               hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+                  >
+                    <div className="flex items-center gap-2 mb-2">
+                      <div
+                        className="flex h-8 w-8 items-center justify-center rounded-lg
+                                   bg-[hsl(var(--nav-theme)/0.1)]"
+                      >
+                        <Icon className="h-4 w-4 text-[hsl(var(--nav-theme-light))]" />
+                      </div>
+                      <span className="text-xs font-semibold uppercase tracking-wider text-[hsl(var(--nav-theme-light))]">
+                        {input.label}
+                      </span>
+                    </div>
+                    <p className="text-xl md:text-2xl font-bold my-2 text-[hsl(var(--nav-theme-light))]">
+                      {input.value}
+                    </p>
+                    <p className="text-sm text-muted-foreground">
+                      {input.description}
+                    </p>
+                  </div>
+                );
+              }
             )}
           </div>
         </div>
@@ -672,7 +750,9 @@ export default function HomePageClient({
           />
 
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.captainsGuide.unlocks.map((unlock: any, index: number) => (
+            {t.modules.captainsGuide.unlocks.map((unlock: any, index: number) => {
+              const RewardIcon = captainIcons[index] ?? Crown;
+              return (
               <div
                 key={index}
                 className="p-5 md:p-6 bg-white/5 border border-border rounded-xl
@@ -682,7 +762,7 @@ export default function HomePageClient({
                   <h3 className="font-bold text-base md:text-lg">{unlock.type}</h3>
                   <span className="inline-flex items-center gap-1.5 text-xs px-2.5 py-1 rounded-full
                                    bg-yellow-500/10 border border-yellow-500/30 text-yellow-400 flex-shrink-0">
-                    <Crown className="w-3.5 h-3.5" />
+                    <RewardIcon className="w-3.5 h-3.5" />
                     {unlock.reward}
                   </span>
                 </div>
@@ -692,7 +772,8 @@ export default function HomePageClient({
                 </div>
                 <p className="text-sm text-muted-foreground">{unlock.use}</p>
               </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>
@@ -712,7 +793,9 @@ export default function HomePageClient({
           />
 
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.primePlayersGuide.players.map((player: any, index: number) => (
+            {t.modules.primePlayersGuide.players.map((player: any, index: number) => {
+              const BadgeIcon = primePlayerIcons[index] ?? Sparkles;
+              return (
               <div
                 key={index}
                 className="p-5 md:p-6 bg-white/5 border border-border rounded-xl
@@ -722,7 +805,7 @@ export default function HomePageClient({
                   <span className="inline-flex items-center gap-1.5 text-xs px-2.5 py-1 rounded-full
                                    bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]
                                    text-[hsl(var(--nav-theme-light))] font-semibold">
-                    <Sparkles className="w-3.5 h-3.5" />
+                    <BadgeIcon className="w-3.5 h-3.5" />
                     {player.badge}
                   </span>
                   <span className="text-xs text-muted-foreground">{player.source}</span>
@@ -730,7 +813,8 @@ export default function HomePageClient({
                 <h3 className="font-bold text-base md:text-lg mb-2">{player.title}</h3>
                 <p className="text-sm text-muted-foreground">{player.description}</p>
               </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>
@@ -751,7 +835,9 @@ export default function HomePageClient({
 
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
             {t.modules.rerollsAndRefreshes.resources.map(
-              (resource: any, index: number) => (
+              (resource: any, index: number) => {
+                const SourceIcon = resourceIcons[index] ?? Coins;
+                return (
                 <div
                   key={index}
                   className="p-5 md:p-6 bg-white/5 border border-border rounded-xl
@@ -762,7 +848,7 @@ export default function HomePageClient({
                     <span className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-full
                                      bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]
                                      text-[hsl(var(--nav-theme-light))] flex-shrink-0">
-                      <Coins className="w-3.5 h-3.5" />
+                      <SourceIcon className="w-3.5 h-3.5" />
                       {resource.source}
                     </span>
                   </div>
@@ -777,7 +863,8 @@ export default function HomePageClient({
                     </div>
                   </div>
                 </div>
-              )
+                );
+              }
             )}
           </div>
         </div>

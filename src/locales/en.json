@@ -293,7 +293,7 @@
     },
     "squadRatingCalculator": {
       "eyebrow": "OVR Calculator",
-      "title": "Build A Soccer Squad Squad Rating Calculator",
+      "title": "Build A Soccer Squad OVR Calculator",
       "subtitle": "Use your starting lineup ratings to see how close your team is to the Cup requirement. Focus upgrades on weak starting positions before spending resources on bench depth.",
       "intro": "Cup Mode requires a squad rating of 93 OVR or higher, so the fastest upgrade path is simple: check your starting lineup, find the lowest-rated positions, then replace those slots with stronger cards from Captains, Prime players, Cup players, shop purchases, quests, rerolls, and refreshes.",
       "inputs": [
